@@ -1,0 +1,945 @@
+species.,species,image_file_name,image_type,color,primary.color,secondary.color,tertiary.color,quaternary.color,pattern,primary.patternattern,secondary.pattern,nape,scale_type,Venomous,Max_Size,Bahrain,Iran,Iraq,Israel,Jordan,Kuwait,Lebanon,Oman,Qatar,Saudi.Arabia,Syria,UAE,Yemen,User
+1,Atractaspis andersoni,Atractaspis_andersoni.jpg,,black ,black,,,,uniform ,uniform,,,smooth,x,900,,,,,,,,,,,,,x,gillian
+2,Atractaspis engaddensis,Atractaspis_engaddensis.jpg,,black ,black,,,,uniform ,uniform,,,smooth,x,650,,,,x,x,,x,,,x,,,,gillian
+2,Atractaspis engaddensis,Atractaspis_engaddensis2.jpg,,black ,black,,,,uniform ,uniform,,,smooth,x,650,,,,x,x,,x,,,x,,,,gillian
+5,Bitis arietans,Bitis_arietans4.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,diamond spotted ,diamond,spotted,,keeled,x,1850,,,,,,,,x,,x,,,,gillian
+5,Bitis arietans,Bitis_arietans8.jpg,,yellow darkbrown beige ,yellow,darkbrown,beige,,banded ,banded,,,smooth,x,1850,,,,,,,,x,,x,,,,gillian
+5,Bitis arietans,Bitis_arietans_m.jpg,,black yellow lightgray ,black,yellow,lightgray,,banded ,banded,,,smooth,x,1850,,,,,,,,x,,x,,,,gillian
+6,Boaedon fuliginosus,Boaedon_fuliginosus3.jpg,,brown lightbrown ,brown,lightbrown,,,striped ,striped,,,smooth,,1300,,,,,,,,,,,,,x,gillian
+6,Boaedon fuliginosus,Boaedon_fuliginosus4.jpg,,darkgray ,darkgray,,,,uniform ,uniform,,,smooth,,1300,,,,,,,,,,,,,x,gillian
+6,Boaedon fuliginosus,Lamprophis_fuliginosus.jpg,,darkgray ,darkgray,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+7,Boaedon mentalis,Boaedon mentalis iNat o147690290.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,1300,,,,,,,,,,,,,,gillian
+7,Boaedon mentalis,Boaedon mentalis iNat p5417590.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,1300,,,,,,,,,,,,,,gillian
+8,Boiga trigonata,Boiga_trigonata.jpg,,brown darkbrown beige ,brown,darkbrown,beige,,banded ,banded,,,keeled,,1250,,x,,,,,,,,,,,,gillian
+8,Boiga trigonata,Boiga_trigonata3.jpg,,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,banded ,banded,,,keeled,,1250,,x,,,,,,,,,,,,gillian
+8,Boiga trigonata,Boiga_trigonata4.jpg,,lightgray white darkgray ,lightgray,white,darkgray,,banded ,banded,,,keeled,,1250,,x,,,,,,,,,,,,gillian
+8,Boiga trigonata,Boiga_trigonata5.jpg,,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,banded ,banded,,,keeled,,1250,,x,,,,,,,,,,,,gillian
+8,Boiga trigonata,Boiga_trigonata6.jpg,,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,banded ,banded,,,smooth,,1250,,x,,,,,,,,,,,,gillian
+9,Bungarus persicus,Abtin 2014 Bungarus persicus 1A.jpg,,black white ,black,white,,,blotched ,blotched,,,smooth,x,1190,,x,,,,,,,,,,,,gillian
+9,Bungarus persicus,Abtin 2014 Bungarus persicus 2A.jpg,,black white ,black,white,,,blotched ,blotched,,,smooth,x,1190,,x,,,,,,,,,,,,gillian
+10,Cerastes cerastes,Cerastes_cerastes1.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+10,Cerastes cerastes,Cerastes_cerastes2.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+10,Cerastes cerastes,Cerastes_cerastes3.jpg,,beige lightbrown ,beige,lightbrown,,,banded ,banded,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+10,Cerastes cerastes,Cerastes_cerastes7.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+10,Cerastes cerastes,Cerastes_cerastes8.jpg,,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+10,Cerastes cerastes mutila,Cerastes_cerastes_mutila15.jpg,,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+10,Cerastes cerastes mutila,Cerastes_cerastes_mutila3.jpg,,beige lightbrown brown ,beige,lightbrown,brown,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,gillian
+11,Cerastes gasperettii,Cerastes_gasperettii.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,860,,x,x,x,x,x,,x,x,x,,x,x,gillian
+11,Cerastes gasperettii,Cerastes_gasprettii.jpg,,lightbrown brown ,lightbrown,brown,,,blotched spotted ,blotched,spotted,,keeled,x,860,,x,x,x,x,x,,x,x,x,,x,x,gillian
+11,Cerastes gasperettii mendelssohni,Cerastes_gasperettii_mendelssohni.jpg,,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,blotched ,blotched,,,keeled,x,860,,x,x,x,x,x,,x,x,x,,x,x,gillian
+12,Cerastes vipera,Cerastes_vipera.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,gillian
+12,Cerastes vipera,Cerastes_vipera2.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,gillian
+12,Cerastes vipera,Cerastes_vipera3.jpg,,beige ,beige,,,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,gillian
+12,Cerastes vipera,Cerastes_vipera4.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,gillian
+12,Cerastes vipera,Cerastes_vipera5.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,gillian
+13,Coronella austriaca,Coronella_austriaca.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca,Coronella_austriaca11.jpg,,lightgray darkgray black ,lightgray,darkgray,black,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca,Coronella_austriaca3.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca,Coronella_austriaca5.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca,Coronella_austriaca8.jpg,,lightgray black ,lightgray,black,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca,Coronella_austriaca9.jpg,,lightgray black ,lightgray,black,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca austriaca,Coronella_austriaca_austriaca.jpg,,lightbrown brown ,lightbrown,brown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca austriaca,Coronella_austriaca_austriaca2.jpg,,brown darkbrown ,brown,darkbrown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca F,Coronella_austriaca_F.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca F,Coronella_austriaca_F2.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca F,Coronella_austriaca_F3.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca F,Coronella_austriaca_F4.jpg,,lightbrown brown ,lightbrown,brown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+13,Coronella austriaca juvenil,Coronella_austriaca_juvenil.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,gillian
+14,Daboia palaestinae,Vipera_palaestinae2.jpg,,brown darkbrown black ,brown,darkbrown,black,,diamond ,diamond,,,smooth,,NA,,,,,,,,,,,,,,gillian
+15,Dasypeltis scabra,Dasypeltis_scabra2.jpg,,lightgray lightbrown white ,lightgray,lightbrown,white,,banded ,banded,,,smooth,,1160,,,,,,,,,,x,,,x,gillian
+16,Ditypophis vivax,Ditypophis_vivax.jpg,,beige lightbrown lightgray ,beige,lightbrown,lightgray,,blotched ,blotched,,,smooth,,356,,,,,,,,,,,,,x,gillian
+17,Dolichophis andreanus,Hierophis_andreanus1.jpg,,lightbrown ,lightbrown,,,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,gillian
+17,Dolichophis andreanus,Hierophis_andreanus2.jpg,,lightbrown ,lightbrown,,,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,gillian
+17,Dolichophis andreanus,Hierophis_andreanus5.jpg,,brown lightbrown ,brown,lightbrown,,,anterior-posterior ,anterior-posterior,,,smooth,,NA,,,,,,,,,,,,,,gillian
+17,Dolichophis andreanus,Hierophis_andreanus6.jpg,,lightbrown ,lightbrown,,,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,gillian
+18,Dolichophis caspius,Dolichophis_caspius.jpg,,lightgray lightbrown ,lightgray,lightbrown,,,,,,,smooth,,2500,,x,x,,x,,,x,,,,,,gillian
+18,Dolichophis caspius,Dolichophis_caspius5.jpg,,darkgray beige lightbrown ,darkgray,beige,lightbrown,,uniform ,uniform,,,smooth,,2500,,x,x,,x,,,x,,,,,,gillian
+18,Dolichophis caspius,Dolichophis_caspius6.jpg,,darkgray beige lightbrown ,darkgray,beige,lightbrown,,uniform ,uniform,,,smooth,,2500,,x,x,,x,,,x,,,,,,gillian
+18,Dolichophis caspius,Dolichophis_caspius7.jpg,,darkgray red ,darkgray,red,,,uniform ,uniform,,,smooth,,2500,,x,x,,x,,,x,,,,,,gillian
+18,Dolichophis caspius,Dolichophis_caspius8.jpg,,darkgray red ,darkgray,red,,,uniform ,uniform,,,smooth,,2500,,x,x,,x,,,x,,,,,,gillian
+18,Dolichophis caspius,Hierophis_caspius.jpg,,darkgray orange ,darkgray,orange,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+19,Dolichophis jugularis,Dolichophis_jugularis.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,2500,,x,x,x,x,x,x,,,,x,,,gillian
+19,Dolichophis jugularis,Dolichophis_jugularis_juv.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,spotted ,spotted,,,smooth,,2500,,x,x,x,x,x,x,,,,x,,,gillian
+20,Dolichophis schmidti,Dolichophis_schmidti.jpg,,lightgray darkgray brown ,lightgray,darkgray,brown,,spotted ,spotted,,,smooth,,1600,,x,x,,x,,,,,,,,,gillian
+21,Echis borkini,Echis borkini iNat 141342280.jpg,,beige lightbrown brown ,beige,lightbrown,brown,,diamond ,diamond,,,keeled,x,555,,,,,,,,,,,,,x,gillian
+22,Echis carinatus,Echis_carinatus.jpg,,darkbrown lightbrown white ,darkbrown,lightbrown,white,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus,Echis_carinatus1.jpg,,brown lightbrown beige ,brown,lightbrown,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus,Echis_carinatus2.jpg,,darkbrown brown white ,darkbrown,brown,white,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus,Echis_carinatus4.jpg,,darkbrown beige lightgray ,darkbrown,beige,lightgray,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus,Echis_carinatus7.jpg,,brown lightgray beige ,brown,lightgray,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus,Echis_carinatus8.jpg,,lightbrown lightgray beige ,lightbrown,lightgray,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus,Echis_carinatus9.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus sochureki,Echis_carinatus_sochureki.jpg,,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,,,,,,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus sochureki,Echis_carinatus_sochureki5.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus sochureki,Echis_carinatus_sochureki7.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus sochureki,Echis_carinatus_sochureki8.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+22,Echis carinatus sochureki,Echis_carinatus_sochureki9.jpg,,lightbrown beige ,lightbrown,beige,,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,gillian
+23,Echis coloratus,Echis_coloratus.jpg,,lightgray lightbrown white ,lightgray,lightbrown,white,,blotched ,blotched,,,keeled,x,900,,,,x,x,,,x,,x,,,x,gillian
+23,Echis coloratus,Echis_coloratus2.jpg,,beige brown white ,beige,brown,white,,blotched ,blotched,,,keeled,x,900,,,,x,x,,,x,,x,,,x,gillian
+23,Echis coloratus,Echis_coloratus3.jpg,,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,900,,,,x,x,,,x,,x,,,x,gillian
+23,Echis coloratus,Echis_coloratus4.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,900,,,,x,x,,,x,,x,,,x,gillian
+24,Echis khosatzkii,Egan 2007 Echis khosatzkii3.jpg,,lightbrown brown ,lightbrown,brown,,,diamond ,diamond,,,keeled,x,600,,,,,,,,x,,,,,x,gillian
+25,Echis omanensis,Carranza 2021 Echis omanensisB.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,diamond ,diamond,,,keeled,x,800,,,,,,,,,,,,x,,gillian
+26,Echis pyramidum,Echis_pyramidum.jpg,,brown darkbrown lightbrown ,brown,darkbrown,lightbrown,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,gillian
+26,Echis pyramidum,Echis_pyramidum1.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,,x,850,,,,,,,,,,x,,,x,gillian
+26,Echis pyramidum,Echis_pyramidum2.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,gillian
+26,Echis pyramidum,Echis_pyramidum3.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,gillian
+28,Eirenis collaris,Eirenis_collaris2.jpg,,lightgray black ,lightgray,black,,,uniform ,uniform,,yes,smooth,,403,,x,x,,x,,x,,,,,,,gillian
+30,Eirenis coronelloides,Eirenis_coronelloides.jpg,,lightgray darkgray black ,lightgray,darkgray,black,,banded ,banded,,,smooth,,334,,x,x,,x,,,,,,x,,,gillian
+31,Eirenis decemlineata,Eirenis_decemlineata.jpg,,lightgray lightbrown brown ,lightgray,lightbrown,brown,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,gillian
+31,Eirenis decemlineatus,Eirenis_decemlineatus.jpg,,lightbrown brown ,lightbrown,brown,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,gillian
+31,Eirenis decemlineatus,Eirenis_decemlineatus2.jpg,,lightbrown brown ,lightbrown,brown,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,gillian
+31,Eirenis decemlineatus,Eirenis_decemlineatus3.jpg,,lightbrown brown ,lightbrown,brown,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,gillian
+31,Eirenis decemlineatus,Eirenis_decemlineatus4.jpg,,lightbrown red ,lightbrown,red,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,gillian
+31,Eirenis decemlineatus,Sindaco 2013 Eirenis decemlineatusB.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,gillian
+33,Eirenis levantinus,Eirenis_levantinus.jpg,,lightgray ,lightgray,,,,anterior-posterior uniform blotched ,anterior-posterior,uniform,,smooth,,462,,,,x,,,x,,,,x,,,gillian
+33,Eirenis levantinus,Eirenis_levantinus6.jpg,,lightbrown black orange ,lightbrown,black,orange,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,gillian
+33,Eirenis levantinus,Sindaco 2013 Eirenis levantinusA.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,gillian
+33,Eirenis levantinus,Sindaco 2013 Eirenis levantinusB.jpg,,lightbrown black ,lightbrown,black,,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,gillian
+34,Eirenis lineomaculatus,Eirenis_lineomaculatus.jpg,,beige brown ,beige,brown,,,blotched ,blotched,,yes,smooth,,316,,,,x,x,,x,,,,x,,,gillian
+34,Eirenis lineomaculatus,Eirenis_lineomaculatus2.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,yes,smooth,,316,,,,x,x,,x,,,,x,,,gillian
+34,Eirenis lineomaculatus,Eirenis_lineomaculatus3.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,yes,smooth,,316,,,,x,x,,x,,,,x,,,gillian
+35,Eirenis medus,Sindaco 2013 Eirenis medusA.jpg,,lightgray darkgray ,lightgray,darkgray,,,blotched ,blotched,,,smooth,,310,,x,,,,,,,,,,,,gillian
+36,Eirenis modestus,Eirenis_modestus.jpg,,darkgray black orange ,darkgray,black,orange,,uniform ,uniform,,,smooth,,600,,x,x,,,,,,,,,,,gillian
+36,Eirenis modestus,Eirenis_modestus3.jpg,,lightbrown brown ,lightbrown,brown,,,uniform ,uniform,,,smooth,,600,,x,x,,,,,,,,,,,gillian
+37,Eirenis nigrofasciatus,Rajabizadeh 2015 Eirenis nigrofasciatus.jpg,,orange black ,orange,black,,,banded ,banded,,yes,smooth,,360,,x,x,,,,,,,,,,,gillian
+38,Eirenis occidentalis,Rajabizadeh 2015 Eirenis occidentalis.jpg,,lightbrown black ,lightbrown,black,,,uniform ,uniform,,yes,smooth,,362,,x,,,,,,,,,,,,gillian
+39,Eirenis persicus,Eirenis_persicus.jpg,,lightgray ,lightgray,,,,uniform ,uniform,,yes,smooth,,1080,,x,x,,,,,,,,,,,gillian
+39,Eirenis persicus,Rajabizadeh 2015 Eirenis persicusA.jpg,,lightbrown black ,lightbrown,black,,,uniform ,uniform,,,smooth,,1080,,x,x,,,,,,,,,,,gillian
+39,Eirenis persicus,Rajabizadeh 2015 Eirenis persicusB.jpg,,beige black ,beige,black,,,uniform ,uniform,,yes,smooth,,1080,,x,x,,,,,,,,,,,gillian
+39,Eirenis persicus,Rajabizadeh 2015 Eirenis walteri.jpg,,black beige ,black,beige,,,uniform banded ,uniform,banded,,smooth,,NA,,,,,,,,,,,,,,gillian
+40,Eirenis punctatolineatus,Eirenis_punctatolineatus.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,spotted ,spotted,,yes,smooth,,600,,x,x,,,,,,,,,,,gillian
+41,Eirenis rafsanjanicus,Akbarpour 2020 Eirenis rafsanjanicusA.jpg,,lightbrown brown ,lightbrown,brown,,,striped banded ,striped,banded,,smooth,,374,,x,,,,,,,,,,,,gillian
+41,Eirenis rafsanjanicus,Akbarpour 2020 Eirenis rafsanjanicusB.jpg,,lightbrown brown ,lightbrown,brown,,,striped banded ,striped,banded,,smooth,,374,,x,,,,,,,,,,,,gillian
+43,Eirenis rothi,Eirenis_rothi2.jpg,,darkgray black lightbrown ,darkgray,black,lightbrown,,uniform ,uniform,,,smooth,,350,,,,x,x,,x,,,,x,,,gillian
+43,Eirenis rothi,Eirenis_rothii.jpg,,lightbrown black orange ,lightbrown,black,orange,,uniform ,uniform,,,smooth,,350,,,,x,x,,x,,,,x,,,gillian
+44,Eirenis yassujicus,Fathinia 2019 Eirenis yassujicusA.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,505,,x,,,,,,,,,,,,gillian
+45,Elaphe dione,Elaphe_dione.jpg,,lightbrown brown black ,lightbrown,brown,black,,striped spotted ,striped,spotted,,smooth,,1000,,x,,,,,,,,,,,,gillian
+45,Elaphe dione,Elaphe_dione1.jpg,,darkbrown black ,darkbrown,black,,,blotched ,blotched,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+45,Elaphe dione,Elaphe_dione4.jpg,,lightgray brown ,lightgray,brown,,,striped blotched ,striped,blotched,,smooth,,1000,,x,,,,,,,,,,,,gillian
+46,Elaphe sauromates,Elaphe_sauromates.jpg,,black red lightbrown ,black,red,lightbrown,,blotched ,blotched,,,smooth,,2000,,,,x,,,x,x,,,x,,,gillian
+46,Elaphe sauromates,Elaphe_sauromates5.jpg,,black lightgray beige ,black,lightgray,beige,,blotched ,blotched,,,smooth,,2000,,,,x,,,x,x,,,x,,,gillian
+46,Elaphe sauromates,Elaphe_sauromates6.jpg,,black orange darkbrown ,black,orange,darkbrown,,blotched ,blotched,,,smooth,,2000,,,,x,,,x,x,,,,,,gillian
+47,Elaphe urartica,Elaphe_urartica2.jpg,,black lightbrown ,black,lightbrown,,,blotched ,blotched,,,smooth,,1200,,x,,,,,,,,,,,,gillian
+47,Elaphe urartica,Elaphe_urartica3.jpg,,darkbrown lightbrown ,darkbrown,lightbrown,,,blotched ,blotched,,,smooth,,1200,,x,,,,,,,,,,,,gillian
+48,Eristicophis macmahoni,Eristicophis_macmahoni.jpg,,lightbrown darkbrown white ,lightbrown,darkbrown,white,,spotted ,spotted,,,keeled,,719,,x,,,,,,,,,,,,gillian
+48,Eristicophis macmahoni,Eristicophis_macmahonii2.jpg,,lightbrown brown beige ,lightbrown,brown,beige,,spotted ,spotted,,,keeled,,719,,x,,,,,,,,,,,,gillian
+49,Eryx colubrinus juvenile,Eryx_colubrinus_juvenile.jpg,,yellow black ,yellow,black,,,blotched ,blotched,,,smooth,,900,,,,,,,,,,,,,,gillian
+49,Eryx colubrinus loveridgei,Eryx_colubrinus_loveridgei.jpg,,black orange ,black,orange,,,blotched ,blotched,,,smooth,,900,,,,,,,,,,,,,,gillian
+50,Eryx elegans,Sindaco 2013 Eryx elegansA.jpg,,lightgray darkgray ,lightgray,darkgray,,,blotched striped ,blotched,striped,,smooth,,690,,x,,,,,,,,,,,,gillian
+51,Eryx jaculus,Eryx_jaculus.jpg,,lightbrown beige brown ,lightbrown,beige,brown,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus,Eryx_jaculus3.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus,Eryx_jaculus5.jpg,,lightgray brown orange ,lightgray,brown,orange,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus,Eryx_jaculus6.jpg,,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus,Sindaco 2013 Eryx jaculusA.jpg,,brown lightbrown darkbrown ,brown,lightbrown,darkbrown,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus jaculus,Eryx_jaculus_jaculus.jpg,,black orange ,black,orange,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus jaculus,Eryx_jaculus_jaculus2.jpg,,black orange lightgray ,black,orange,lightgray,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus turcicus,Eryx_jaculus_turcicus.jpg,,black darkgray lightgray ,black,darkgray,lightgray,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus turcicus,Eryx_jaculus_turcicus4.jpg,,beige lightbrown darkbrown ,beige,lightbrown,darkbrown,,blotched spotted ,blotched,spotted,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+51,Eryx jaculus turcicus,Eryx_jaculus_turcicus5.jpg,,darkbrown black beige ,darkbrown,black,beige,,blotched spotted ,blotched,spotted,,smooth,,800,,x,x,x,x,,,x,,x,x,,,gillian
+52,Eryx jayakari,Eryx_jayakari.jpg,,red black lightbrown ,red,black,lightbrown,,blotched ,blotched,,,smooth,,640,,x,x,,,x,,x,x,x,,x,,gillian
+52,Eryx jayakari,Eryx_jayakari_female.jpg,,lightbrown darkbrown orange ,lightbrown,darkbrown,orange,,banded ,banded,,,smooth,,640,,x,x,,,x,,x,x,x,,x,,gillian
+53,Eryx johnii,Eryx_johnii.jpg,,orange brown ,orange,brown,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii10.jpg,,orange black brown ,orange,black,brown,,banded ,banded,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii11.jpg,,orange darkbrown ,orange,darkbrown,,,,,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii12.jpg,,lightbrown brown ,lightbrown,brown,,,,,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii13.jpg,,darkbrown brown lightbrown ,darkbrown,brown,lightbrown,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii2.jpg,,brown ,brown,,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii3.jpg,,brown darkbrown ,brown,darkbrown,,,anterior-posterior uniform banded ,anterior-posterior,uniform,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii5.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii7.jpg,,orange darkbrown ,orange,darkbrown,,,banded ,banded,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Eryx_johnii9.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+53,Eryx johnii,Sindaco 2013 Eryx johnii.jpg,,black green ,black,green,,,banded ,banded,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+54,Eryx miliaris,Eryx_miliaris3.jpg,,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,gillian
+54,Eryx miliaris,Eryx_tataricus.jpg,,beige black ,beige,black,,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,gillian
+54,Eryx miliaris,Eryx_tataricus_speciosus.jpg,,beige orange darkbrown ,beige,orange,darkbrown,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,gillian
+54,Eryx miliaris,Eryx_tataricus_tataricus.jpg,,darkbrown beige lightgray ,darkbrown,beige,lightgray,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,gillian
+54,Eryx miliaris miliaris,Eryx_miliaris_miliaris.jpg,,darkbrown lightbrown orange ,darkbrown,lightbrown,orange,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,gillian
+54,Eryx miliaris miliaris,Eryx_miliaris_miliaris2.jpg,,lightbrown brown orange ,lightbrown,brown,orange,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,gillian
+54,Eryx miliaris nogaiorum,Eryx_miliaris_nogaiorum.jpg,,black lightgray white ,black,lightgray,white,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,gillian
+54,Eryx miliaris nogaiorum,Eryx_miliaris_nogaiorum2.jpg,,black white lightgray ,black,white,lightgray,,spotted ,spotted,,,smooth,,910,,x,x,,,,,,,,,,,gillian
+55,Eryx sistanensis,Eryx_sistanensis.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,banded ,banded,,,smooth,,855,,x,,,,,,,,,,,,gillian
+55,Eryx sistanensis,Eryx_sistanensis2.jpg,,lightbrown darkbrown,lightbrown,darkbrown,,,banded ,banded,,,smooth,,855,,x,,,,,,,,,,,,gillian
+55,Eryx sistanensis,Eryx_sistanensis3.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,banded ,banded,,,smooth,,855,,x,,,,,,,,,,,,gillian
+55,Eryx sistanensis,Eryx_sistanensis4.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,banded ,banded,,,smooth,,855,,x,,,,,,,,,,,,gillian
+56,Gloydius caucasicus,Kamali 2020 Gloydius caucasicus.jpg,,darkbrown lightbrown ,darkbrown,lightbrown,,,blotched ,blotched,,,keeled,,660,,x,,,,,,,,,,,,gillian
+57,Gloydius halys,Gloydius_halys.jpg,,darkgray black white ,darkgray,black,white,,blotched ,blotched,,,keeled,,750,,x,,,,,,,,,,,,gillian
+57,Gloydius halys caraganus,Gloydius_halys_caraganus3.jpg,,lightbrown brown ,lightbrown,brown,,,,,,,keeled,,750,,x,,,,,,,,,,,,gillian
+57,Gloydius halys caraganus,Gloydius_halys_caraganus_m.jpg,,orange lightbrown white ,orange,lightbrown,white,,blotched ,blotched,,,keeled,,750,,x,,,,,,,,,,,,gillian
+58,Gloydius intermedius,Gloydius_intermedius.jpg,,darkgray lightgray ,darkgray,lightgray,,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,gillian
+58,Gloydius intermedius,Gloydius_intermedius2.jpg,,darkbrown lightbrown ,darkbrown,lightbrown,,,banded ,banded,,,,,740,,,,,,,,,,,,,,gillian
+58,Gloydius intermedius,Gloydius_intermedius3.jpg,,darkbrown beige ,darkbrown,beige,,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,gillian
+58,Gloydius intermedius,Gloydius_intermedius4.jpg,,brown lightbrown ,brown,lightbrown,,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,gillian
+58,Gloydius intermedius,Gloydius_intermedius5.jpg,,brown lightbrown ,brown,lightbrown,,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,gillian
+58,Gloydius intermedius saxat,Gloydius_intermedius_saxat.jpg,,darkbrown beige ,darkbrown,beige,,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,gillian
+59,Hemerophis socotrae,Hemerophis_socotrae.jpg,,darkgray orange ,darkgray,orange,,,banded ,banded,,,smooth,,1480,,,,,,,,,,,,,,gillian
+60,Hemorrhois nummifer,Hemorrhois_nummifer.jpg,,darkgray lightgray ,darkgray,lightgray,,,diamond ,diamond,,,smooth,,1275,,x,x,x,x,,x,,,,x,,,gillian
+61,Hemorrhois ravergieri,Coluber_ravergieri.jpg,,lightgray darkbrown white ,lightgray,darkbrown,white,,blotched striped ,blotched,striped,,smooth,,NA,,,,,,,,,,,,,,gillian
+61,Hemorrhois ravergieri,Hemorrhois_ravergieri1.jpg,,lightgray black ,lightgray,black,,,blotched ,blotched,,,smooth,,1392,,x,x,,x,,x,,,,x,,,gillian
+61,Hemorrhois ravergieri,Hemorrhois_ravergieri4.jpg,,lightgray black ,lightgray,black,,,blotched ,blotched,,,smooth,,1392,,x,x,,x,,x,,,,x,,,gillian
+61,Hemorrhois ravergieri,Hemorrhois_ravergieri6.jpg,,lightgray black ,lightgray,black,,,blotched ,blotched,,,smooth,,1392,,x,x,,x,,x,,,,x,,,gillian
+63,Hydrophis curtus,Lapemis_curtus1.jpg,,darkgray lightgray ,darkgray,lightgray,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+63,Hydrophis curtus,Lapemis_curtus2.jpg,,darkgray yellow ,darkgray,yellow,,,banded anterior-posterior uniform ,banded,anterior-posterior,,smooth,,NA,,,,,,,,,,,,,,gillian
+64,Hydrophis cyanocinctus,Hydrophis_cyanocinctus.jpg,,darkbrown black ,darkbrown,black,,,banded ,banded,,,smooth,x,2750,,x,,,,,,x,x,,,x,,gillian
+65,Hydrophis fasciatus,Hydrophis_fasciatus1.jpg,,beige black ,beige,black,,,banded ,banded,,,smooth,x,1100,,,,,,,,,,,,,,gillian
+66,Hydrophis hardwickii,Kharin 2016 Hydrophis hardwickii.jpg,,darkbrown beige ,darkbrown,beige,,,banded ,banded,,,keeled,x,1000,,x,,,,,,,,,,x,,gillian
+66,Hydrophis hardwickii,Mehrtens 1987 Hydrophis hardwickii 2.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,keeled,x,1000,,x,,,,,,,,,,x,,gillian
+66,Hydrophis hardwickii,Mehrtens 1987 Hydrophis hardwickii.jpg,,beige darkbrown ,beige,darkbrown,,,blotched diamond ,blotched,diamond,,keeled,x,1000,,x,,,,,,,,,,x,,gillian
+66,Hydrophis hardwickii,O'Shea 1996 Hydrophis hardwickii.jpg,,darkbrown beige ,darkbrown,beige,,,banded ,banded,,,keeled,x,1000,,x,,,,,,,,,,,,gillian
+67,Hydrophis lapemoides,Hydrophis_lapemoides.jpg,,black white ,black,white,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,gillian
+67,Hydrophis lapemoides,Hydrophis_lapemoides1.jpg,,black lightgray ,black,lightgray,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,gillian
+67,Hydrophis lapemoides,Hydrophis_lapemoides2.jpg,,beige black ,beige,black,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,gillian
+67,Hydrophis lapemoides,Hydrophis_lapemoides3.jpg,,black white ,black,white,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,gillian
+67,Hydrophis lapemoides,Hydrophis_lapemoides4.jpg,,black white ,black,white,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,gillian
+67,Hydrophis lapemoides,Hydrophis_lapemoides5.jpg,,black white ,black,white,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,gillian
+69,Hydrophis ocellatus,Hydrophis_ocellatus.jpg,,beige orange darkbrown ,beige,orange,darkbrown,,blotched ,blotched,,,smooth,x,950,,,,,,,,,,,,,,gillian
+70,Hydrophis ornatus,Hydrophis_ornatus.jpg,,beige darkbrown ,beige,darkbrown,,,banded ,banded,,,smooth,x,1115,,x,,,,,,x,,,,x,,gillian
+71,Hydrophis platura,Pelamis_platura1.jpg,,black beige ,black,beige,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+71,Hydrophis platura,Pelamis_platura2.jpg,,black white yellow ,black,white,yellow,,anterior-posterior striped blotched ,anterior-posterior,striped,,smooth,,NA,,,,,,,,,,,,,,gillian
+71,Hydrophis platurus,Hydrophis_platurus.jpg,,black white yellow ,black,white,yellow,,anterior-posterior striped  blotched ,anterior-posterior,striped,,smooth,x,880,,x,x,,,,,x,x,,,x,,gillian
+71,Hydrophis platurus,Hydrophis_platurus5.jpg,,black white yellow ,black,white,yellow,,anterior-posterior striped blotched ,anterior-posterior,striped,,smooth,x,880,,x,x,,,,,x,x,,,x,,gillian
+71,Hydrophis platurus,Hydrophis_platurus6.jpg,,black yellow white ,black,yellow,white,,anterior-posterior striped blotched ,anterior-posterior,striped,,smooth,x,880,,x,x,,,,,x,x,,,x,,gillian
+71,Hydrophis platurus,Hydrophis_platurus7.jpg,,yellow ,yellow,,,,blotched ,blotched,,,smooth,x,880,,x,x,,,,,x,x,,,x,,gillian
+71,Hydrophis platurus,Hydrophis_platurus9.jpg,,black white yellow ,black,white,yellow,,anterior-posterior blotched ,anterior-posterior,blotched,,smooth,x,880,,x,x,,,,,x,x,,,x,,gillian
+71,Hydrophis platurus,Hydrophis_platurus_xanthos.jpg,,yellow ,yellow,,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,gillian
+72,Hydrophis schistosa,Enhydrina_schistosa1.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+72,Hydrophis schistosa,Enhydrina_schistosa3.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+72,Hydrophis schistosa,Enhydrina_schistosa4.jpg,,lightgray darkgray beige ,lightgray,darkgray,beige,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+72,Hydrophis schistosa,Enhydrina_schistosa5.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+73,Hydrophis spiralis,Hydrophis_spiralis.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,smooth,x,2750,,x,,,,,,x,,,,x,,gillian
+74,Hydrophis viperina,Thallasophina_viperina3.jpg,,darkgray lightgray ,darkgray,lightgray,,,diamond ,diamond,,,smooth,,NA,,,,,,,,,,,,,,gillian
+75,Indotyphlops braminus,Indotyphlops_braminus2.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,gillian
+75,Indotyphlops braminus,Indotyphlops_braminus3.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,gillian
+75,Indotyphlops braminus,Indotyphlops_braminus4.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,gillian
+75,Indotyphlops braminus,Indotyphlops_braminus5.jpg,,darkbrown beige ,darkbrown,beige,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,gillian
+75,Indotyphlops braminus,Indotyphlops_braminus6.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,gillian
+75,Indotyphlops braminus,Ramphotyphlops_braminus.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+75,Indotyphlops braminus,Ramphotyphlops_braminus2.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+76,Letheobia simoni,Letheobia_simoni.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,x,x,,,,,,,,,gillian
+76,Letheobia simoni,Letheobia_simoni2.jpg,,purple ,purple,,,,,,,,,,NA,,,,x,x,,,,,,,,,gillian
+76,Letheobia simoni,Letheobia_simoni3.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,x,x,,,,,,,,,gillian
+77,Lycodon striatus,Lycodon_striatus.jpg,,black white yellow ,black,white,yellow,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,gillian
+77,Lycodon striatus,Lycodon_striatus2.jpg,,brown yellow darkbrown ,brown,yellow,darkbrown,,banded ,banded,,,smooth,,488,,x,,,,,,,,,,,,gillian
+77,Lycodon striatus,Lycodon_striatus3.jpg,,brown white yellow ,brown,white,yellow,,banded blotched ,banded,blotched,,smooth,,488,,x,,,,,,,,,,,,gillian
+77,Lycodon striatus,Lycodon_striatus4.jpg,,darkbrown yellow white ,darkbrown,yellow,white,,blotched banded ,blotched,banded,,smooth,,488,,x,,,,,,,,,,,,gillian
+77,Lycodon striatus,Lycodon_striatus5.jpg,,darkbrown lightgray yellow ,darkbrown,lightgray,yellow,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,gillian
+78,Lytorhynchus diadema,Lytorhynchus_diadema.jpg,,lightgray darkgray ,lightgray,darkgray,,,diamond ,diamond,,,smooth,,440,,,,x,x,x,,,x,,x,x,,gillian
+78,Lytorhynchus diadema,Lytorhynchus_diadema2.jpg,,lightbrown black orange ,lightbrown,black,orange,,diamond ,diamond,,,keeled,,440,,,,x,x,x,,,x,,x,x,,gillian
+78,Lytorhynchus diadema,Lytorhynchus_diadema3.jpg,,beige darkbrown ,beige,darkbrown,,,diamond ,diamond,,,keeled,,440,,,,x,x,x,,,x,,x,x,,gillian
+78,Lytorhynchus diadema,Lytorhynchus_diadema4.jpg,,beige lightbrown ,beige,lightbrown,,,diamond ,diamond,,,smooth,,440,,,,x,x,x,,,x,,x,x,,gillian
+78,Lytorhynchus diadema,Lytorhynchus_diadema5.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,diamond ,diamond,,,smooth,,440,,,,x,x,x,,,x,,x,x,,gillian
+78,Lytorhynchus diadema,Lytorhynchus_diadema6.jpg,,beige brown ,beige,brown,,,diamond ,diamond,,,keeled,,440,,,,x,x,x,,,x,,x,x,,gillian
+81,Lytorhynchus kennedyi ridgewayi,Sindaco 2013 Lytorhynchus kennedyi ridgewayiB.jpg,,white brown ,white,brown,,,banded ,banded,,,keeled,,380,,,x,,x,,,,,x,x,,,gillian
+81,Lytorhynchus kennedyi ridgewayi,Sindaco 2013 Lytorhynchus kennedyi ridgewayiD.jpg,,darkgray lightgray white ,darkgray,lightgray,white,,diamond ,diamond,,,keeled,,380,,,x,,x,,,,,x,x,,,gillian
+81,Lytorhynchus kennedyi ridgewayi,Sindaco 2013 Lytorhynchus kennedyi ridgewayiE.jpg,,brown black ,brown,black,,,blotched ,blotched,,,smooth,,380,,,x,,x,,,,,x,x,,,gillian
+82,Lytorhynchus maynardi,Lytorhynchus_maynardi.jpg,,darkbrown ,darkbrown,,,,diamond ,diamond,,,smooth,,265,,x,,,,,,,,,,,,gillian
+84,Macroprotodon cucullatus,Macroprotodon_cucullatus.jpg,,darkgray black ,darkgray,black,,,spotted ,spotted,,,smooth,,550,,,,x,,,,,,,,,,gillian
+85,Macrovipera leb turanica,Macrovipera_leb_turanica.jpg,,darkgray lightbrown black ,darkgray,lightbrown,black,,blotched ,blotched,,,smooth,x,2140,,x,x,,x,,x,,,,x,,x,gillian
+85,Macrovipera lebetina,Macrovipera_lebetina.jpg,,lightbrown brown ,lightbrown,brown,,,banded ,banded,,,smooth,x,2140,,x,x,,x,,x,,,,x,,x,gillian
+85,Macrovipera lebetina,Macrovipera_lebetina_obtusa.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,smooth,x,2140,,x,x,,x,,x,,,,x,,x,gillian
+85,Macrovipera lebetina,Macrovipera_lebetina_obtusa2.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,keeled,x,2140,,x,x,,x,,x,,,,x,,x,gillian
+86,Macrovipera razii,Oraie 2018 Macrovipera raziiA.jpg,,black ,black,,,,uniform ,uniform,,,smooth,x,1577,,x,,,,,,,,,,,,gillian
+86,Macrovipera razii,Oraie 2018 Macrovipera raziiB.jpg,,lightgray darkgray ,lightgray,darkgray,,,blotched ,blotched,,,keeled,x,1577,,x,,,,,,,,,,,,gillian
+87,Malpolon insignitus insignitus,Malpolon_insignitus_insignitus3.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,2080,,x,x,x,x,,x,,,,x,,,gillian
+88,Malpolon moilensis,Malpolon_moilensis3.jpg,,beige lightgray lightbrown ,beige,lightgray,lightbrown,,blotched ,blotched,,,smooth,,1890,,x,x,x,x,x,,,x,x,x,x,x,gillian
+89,Malpolon monspessulana,Malpolon_monspessulana.jpg,,brown lightgray ,brown,lightgray,,,uniform ,uniform,,,keeled,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus4.jpg,,lightgray darkgray ,lightgray,darkgray,,,,,,,smooth,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus5.jpg,,brown darkbrown ,brown,darkbrown,,,uniform ,uniform,,,keeled,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus6.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,keeled,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus7.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus_juv_fem.jpg,,brown darkbrown ,brown,darkbrown,,,spotted ,spotted,,,keeled,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus_m.jpg,,blue lightgray ,blue,lightgray,,,uniform ,uniform,,,smooth,,2170,,,,,,,,,,,,,,gillian
+89,Malpolon monspessulana,Malpolon_monspessulanus_male.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,,2170,,,,,,,,,,,,,,gillian
+90,Micrelaps muelleri,Micrelaps_muelleri.jpg,,black yellow ,black,yellow,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,gillian
+90,Micrelaps muelleri,Micrelaps_muelleri2.jpg,,black yellow ,black,yellow,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,gillian
+90,Micrelaps muelleri,Micrelaps_muelleri3.jpg,,black beige ,black,beige,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,gillian
+90,Micrelaps muelleri,Micrelaps_muelleri4.jpg,,black beige ,black,beige,,,banded blotched ,banded,blotched,,smooth,x,600,,,,x,x,,x,,,,x,,,gillian
+90,Micrelaps muelleri,Micrelaps_tchernovi.jpg,,black beige ,black,beige,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+92,Montivipera bornmuelleri,Montivipera_bornmuelleri2.jpg,,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,keeled,x,740,,,,x,,,x,,,,x,,,gillian
+92,Montivipera bornmuelleri,Montivipera_bornmuelleri3.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,keeled,x,740,,,,x,,,x,,,,x,,,gillian
+93,Montivipera kuhrangica,Montivipera_kuhrangica.jpg,,brown darkbrown ,brown,darkbrown,,,,,,,keeled,x,667,,x,,,,,,,,,,,,gillian
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiA.jpg,,darkgray black green ,darkgray,black,green,,diamond blotched ,diamond,blotched,,keeled,x,790,,x,,,,,,,,,,,,gillian
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiC.jpg,,black lightgray ,black,lightgray,,,spotted striped ,spotted,striped,,keeled,x,790,,x,,,,,,,,,,,,gillian
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiD.jpg,,brown darkbrown lightgray ,brown,darkbrown,lightgray,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,gillian
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiE.jpg,,brown ,brown,,,,uniform ,uniform,,,keeled,x,790,,x,,,,,,,,,,,,gillian
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiF.jpg,,darkgray black white ,darkgray,black,white,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,gillian
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiG.jpg,,darkgray black lightbrown white ,darkgray,black,lightbrown,white,diamond blotched ,diamond,blotched,,keeled,x,790,,x,,,,,,,,,,,,gillian
+95,Montivipera raddei,Vipera_r_raddei.jpg,,darkgray green ,darkgray,green,,,diamond blotched ,diamond,blotched,,keeled,,NA,,,,,,,,,,,,,,gillian
+96,Montivipera wagneri,Montivipera_wagneri.jpg,,lightbrown brown ,lightbrown,brown,,,diamond blotched ,diamond,blotched,,keeled,x,950,,x,,,,,,,,,,,,gillian
+96,Montivipera wagneri,Montivipera_wagneri2.jpg,,brown darkbrown lightbrown ,brown,darkbrown,lightbrown,,diamond blotched ,diamond,blotched,,keeled,x,950,,x,,,,,,,,,,,,gillian
+97,Montivipera xanthina,Vipera_xanthina.jpg,,lightbrown darkbrown white black ,lightbrown,darkbrown,white,black,diamond blotched ,diamond,blotched,,keeled,,NA,,,,,,,,,,,,,,gillian
+97,Montivipera xanthina,Vipera_xanthina_2.jpg,,lightbrown darkbrown black ,lightbrown,darkbrown,black,,diamond blotched ,diamond,blotched,,keeled,,NA,,,,,,,,,,,,,,gillian
+101,Myriopholis macrorhyncha,Myriopholis_macrorhyncha.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,269,,x,x,x,x,,,x,,,x,x,,gillian
+101,Myriopholis macrorhyncha,Myriopholis_macrorhyncha2.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,269,,x,x,x,x,,,x,,,x,x,,gillian
+101,Myriopholis macrorhyncha,Myriopholis_macrorhyncha4.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,269,,x,x,x,x,,,x,,,x,x,,gillian
+101,Myriopholis macrorhynchus,Leptotyphlops_macrorhynchus.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+101,Myriopholis macrorhynchus,Leptotyphlops_macrorhynchus2.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+101,Myriopholis macrorhynchus,Leptotyphlops_macrorhynchus4.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+102,Myriopholis macrura,Myriopholis_macrura.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,170,,,,,,,,,,,,,x,gillian
+102,Myriopholis macrurus,Leptotyphlops_macrurus.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+103,Myriopholis nursii,Carranza 2021 Myriopholis nursii.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,250,,,,,,,,x,,,,,x,gillian
+103,Myriopholis nursii,Egan 2007 Myriopholis nursiiC.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,250,,,,,,,,x,,,,,x,gillian
+104,Myriopholis wilsoni,Leptotyphlops_wilsoni.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+104,Myriopholis wilsoni,Myriopholis_wilsoni.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,101,,,,,,,,,,,,,x,gillian
+106,Naja arabica,Carranza 2021 Naja arabicaD.jpg,,yellow black ,yellow,black,,,uniform ,uniform,,,smooth,x,2400,,,,,,,,x,,x,,,x,gillian
+107,Naja haje,Naja_haje.jpg,,yellow darkbrown ,yellow,darkbrown,,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,gillian
+107,Naja haje,Naja_haje2.jpg,,darkbrown beige ,darkbrown,beige,,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,gillian
+107,Naja haje,Naja_haje3.jpg,,black orange ,black,orange,,,banded ,banded,,,smooth,x,2600,,,,,,,,,,,,,x,gillian
+107,Naja haje,Naja_haje4.jpg,,brown orange ,brown,orange,,,banded ,banded,,,smooth,x,2600,,,,,,,,,,,,,x,gillian
+107,Naja haje,Naja_naja_haje2.jpg,,darkbrown beige ,darkbrown,beige,,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,gillian
+109,Naja natrix,Natrix_natrix.jpg,,beige black ,beige,black,,,spotted ,spotted,,,keeled,x,2000,,x,x,,,,,x,,,x,,,gillian
+109,Naja natrix,Natrix_natrix1.jpg,,black beige ,black,beige,,,uniform ,uniform,,yes,smooth,x,2000,,x,x,,,,,x,,,x,,,gillian
+109,Naja natrix,Natrix_natrix2.jpg,,lightgray black ,lightgray,black,,,spotted ,spotted,,,smooth,x,2000,,x,x,,,,,x,,,x,,,gillian
+109,Naja natrix,Natrix_natrix5.jpg,,lightbrown black ,lightbrown,black,,,spotted ,spotted,,yes,smooth,x,2000,,x,x,,,,,x,,,x,,,gillian
+109,Naja natrix,Natrix_natrix6.jpg,,lightbrown black ,lightbrown,black,,,spotted ,spotted,,yes,smooth,x,2000,,x,x,,,,,x,,,x,,,gillian
+109,Naja natrix,Natrix_natrix7.jpg,,lightgray black ,lightgray,black,,,spotted ,spotted,,yes,smooth,x,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix cypriaca,Natrix_natrix_cypriaca.jpg,,green black ,green,black,,,blotched ,blotched,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix cypriaca,Natrix_natrix_cypriaca2.jpg,,green black ,green,black,,,blotched ,blotched,,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix natrix,Natrix_natrix_natrix2.jpg,,green black ,green,black,,,spotted ,spotted,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix natrix,Natrix_natrix_natrix3.jpg,,darkgray orange black ,darkgray,orange,black,,spotted ,spotted,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix natrix,Natrix_natrix_natrix_juv.jpg,,darkgray beige black ,darkgray,beige,black,,spotted ,spotted,,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix persa,Natrix_natrix_persa_f.jpg,,darkgray white ,darkgray,white,,,striped spotted ,striped,spotted,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris.jpg,,darkgray black ,darkgray,black,,,spotted ,spotted,,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris10.jpg,,brown lightbrown black ,brown,lightbrown,black,,striped spotted ,striped,spotted,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris11.jpg,,brown black orange beige ,brown,black,orange,beige,striped spotted ,striped,spotted,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris12.jpg,,brown black beige orange ,brown,black,beige,orange,striped spotted ,striped,spotted,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris3.jpg,,darkgray black orange ,darkgray,black,orange,,spotted ,spotted,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris5.jpg,,darkgray black ,darkgray,black,,,spotted ,spotted,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris7.jpg,,darkgray black ,darkgray,black,,,spotted ,spotted,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris8.jpg,,lightbrown darkgray black orange ,lightbrown,darkgray,black,orange,spotted ,spotted,,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris9.jpg,,brown lightbrown black ,brown,lightbrown,black,,striped spotted ,striped,spotted,,smooth,,2000,,x,x,,,,,x,,,x,,,gillian
+110,Natrix tessellata,Natrix_tessellata.jpg,,darkgray black ,darkgray,black,,,banded ,banded,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata1.jpg,,lightbrown brown ,lightbrown,brown,,,banded ,banded,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata12.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata13.jpg,,green black ,green,black,,,banded ,banded,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata14.jpg,,green ,green,,,,spotted ,spotted,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata15.jpg,,darkbrown yellow ,darkbrown,yellow,,,banded ,banded,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata2.jpg,,darkbrown brown ,darkbrown,brown,,,banded ,banded,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata6.jpg,,darkbrown lightbrown ,darkbrown,lightbrown,,,spotted ,spotted,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata7.jpg,,green darkbrown orange ,green,darkbrown,orange,,blotched ,blotched,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+110,Natrix tessellata,Natrix_tessellata8.jpg,,lightbrown black orange ,lightbrown,black,orange,,spotted ,spotted,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus10.jpg,,lightbrown brown ,lightbrown,brown,,,diamond ,diamond,,yes,keeled,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus11.jpg,,darkgray brown black ,darkgray,brown,black,,blotched striped ,blotched,striped,yes,smooth,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus2.jpg,,brown darkbrown white ,brown,darkbrown,white,,blotched striped ,blotched,striped,yes,keeled,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus3.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,,keeled,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus5.jpg,,darkgray darkbrown ,darkgray,darkbrown,,,blotched ,blotched,,,smooth,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus6.jpg,,lightbrown brown ,lightbrown,brown,,,diamond ,diamond,,,smooth,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus7.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,diamond ,diamond,,,keeled,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus8.jpg,,darkbrown lightgray ,darkbrown,lightgray,,,spotted striped ,spotted,striped,yes,smooth,,590,,x,,,,,,,,,,,,gillian
+111,Oligodon taeniolatus,Oligodon_taeniolatus9.jpg,,lightbrown brown ,lightbrown,brown,,,blotched striped ,blotched,striped,,smooth,,590,,x,,,,,,,,,,,,gillian
+112,Persiophis fahimii,Persiophis_fahimii.jpg,,darkbrown darkbrown white ,darkbrown,darkbrown,white,,banded ,banded,,,smooth,,495,,x,,,,,,,,,,,,gillian
+114,Platyceps collaris,Platyceps_collaris2.jpg,,brown ,brown,,,,,,,yes,smooth,,1000,,,,x,x,,x,,,,x,,,gillian
+114,Platyceps collaris,Platyceps_collaris3.jpg,,brown darkgray black ,brown,darkgray,black,,anterior-posterior blotched uniform ,anterior-posterior,blotched,yes,smooth,,1000,,,,x,x,,x,,,,x,,,gillian
+114,Platyceps collaris,Platyceps_collaris_1.jpg,,darkgray lightbrown black ,darkgray,lightbrown,black,,anterior-posterior blotched uniform ,anterior-posterior,blotched,yes,smooth,,1000,,,,x,x,,x,,,,x,,,gillian
+114,Platyceps collaris,Platyceps_rubriceps.jpg,,lightgray lightbrown ,lightgray,lightbrown,,,spotted ,spotted,,yes,smooth,,NA,,,,,,,,,,,,,,gillian
+115,Platyceps elegantissimus,Platyceps_elegantissimus.jpg,,black yellow ,black,yellow,,,banded ,banded,,,keeled,,700,,,,x,x,,,,,x,,,,gillian
+115,Platyceps elegantissimus,Platyceps_elegantissimus2.jpg,,black yellow orange ,black,yellow,orange,,banded striped ,banded,striped,yes,smooth,,700,,,,x,x,,,,,x,,,,gillian
+115,Platyceps elegantissimus,Platyceps_elegantissimus3.jpg,,lightbrown black orange ,lightbrown,black,orange,,striped banded ,striped,banded,yes,smooth,,700,,,,x,x,,,,,x,,,,gillian
+115,Platyceps elegantissimus,Platyceps_elegantissimus4.jpg,,lightbrown black orange ,lightbrown,black,orange,,striped banded ,striped,banded,yes,smooth,,700,,,,x,x,,,,,x,,,,gillian
+117,Platyceps karelini,Platyceps_karelinii.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,smooth,,1000,,x,,,,,,,,,,,,gillian
+118,Platyceps ladacensis,Platyceps_ladacensis.jpg,,lightbrown darkgray ,lightbrown,darkgray,,,banded ,banded,,,smooth,,1072,,x,x,,,,,,,,,,,gillian
+118,Platyceps ladacensis,Schätti 2014 Platyceps ladacensisB.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,,,1072,,x,x,,,,,,,,,,,gillian
+118,Platyceps ladacensis,Schätti 2014 Platyceps ladacensisC.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,smooth,,1072,,x,x,,,,,,,,,,,gillian
+119,Platyceps najadum,Coluber_najadum.jpg,,darkbrown brown black ,darkbrown,brown,black,,anterior-posterior blotched ,anterior-posterior,blotched,,smooth,,NA,,,,,,,,,,,,,,gillian
+119,Platyceps najadum dahlii,Platyceps_najadum_dahlii.jpg,,lightbrown green blue ,lightbrown,green,blue,,anterior-posterior blotched uniform ,anterior-posterior,blotched,,smooth,,1530,,,x,,,,x,,,,x,,,gillian
+120,Platyceps plinii,Platyceps_plinii.jpg,,brown white ,brown,white,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,gillian
+121,Platyceps rhodorachis,Schätti 2014 Platyceps (dragged)C.jpg,,darkgray ,darkgray,,,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,gillian
+121,Platyceps rhodorachis,Platyceps_rhodorachis2.jpg,,lightbrown brown ,lightbrown,brown,,,spotted anterior-posterior uniform ,spotted,anterior-posterior,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,gillian
+121,Platyceps rhodorachis,Platyceps_rhodorachis_rhodorachis.jpg,,darkbrown beige ,darkbrown,beige,,,spotted ,spotted,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,gillian
+121,Platyceps rhodorhachis,Schätti 2014 Platyceps rhodorhachisA.jpg,,lightgray darkgray ,lightgray,darkgray,,,banded ,banded,,,keeled,,1167,,x,x,,x,,,x,,x,x,x,x,gillian
+121,Platyceps rhodorhachis,Schätti 2014 Platyceps rhodorhachisB.jpg,,lightgray darkgray ,lightgray,darkgray,,,spotted ,spotted,,,keeled,,1167,,x,x,,x,,,x,,x,x,x,x,gillian
+121,Platyceps rhodorhachis,Schätti 2014 Platyceps rhodorhachisC.jpg,,darkgray lightgray ,darkgray,lightgray,,,spotted ,spotted,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,gillian
+121,Platyceps rhodorhachis,Schätti 2014 Platyceps rhodorhachisD.jpg,,lightgray orange ,lightgray,orange,,,striped ,striped,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,gillian
+122,Platyceps rogersi,Coluber_rogersi.jpg,,lightgray white beige ,lightgray,white,beige,,blotched anterior-posterior ,blotched,anterior-posterior,,smooth,,NA,,,,,,,,,,,,,,gillian
+122,Platyceps rogersi,Platyceps_rogersi.jpg,,lightbrown beige ,lightbrown,beige,,,diamond ,diamond,,,smooth,,1080,,,x,x,x,,x,,,x,x,,,gillian
+123,Platyceps saharicus,Platyceps_saharicus.jpg,,darkgray beige ,darkgray,beige,,,anterior-posterior banded uniform ,anterior-posterior,banded,,smooth,,1410,,,,x,x,,,,,x,,,,gillian
+123,Platyceps saharicus,Platyceps_saharicus2.jpg,,lightgray lightbrown beige ,lightgray,lightbrown,beige,,banded anterior-posterior uniform ,banded,anterior-posterior,,smooth,,1410,,,,x,x,,,,,x,,,,gillian
+123,Platyceps saharicus,Platyceps_saharicus3.jpg,,darkgray lightbrown beige ,darkgray,lightbrown,beige,,anterior-posterior banded uniform ,anterior-posterior,banded,,smooth,,1410,,,,x,x,,,,,x,,,,gillian
+123,Platyceps saharicus,Platyceps_saharicus4.jpg,,darkgray lightgray ,darkgray,lightgray,,,blotched ,blotched,,,smooth,,1410,,,,x,x,,,,,x,,,,gillian
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisA.jpg,,lightbrown beige ,lightbrown,beige,,,banded ,banded,,,keeled,,400,,,,,,,,,,x,,,x,gillian
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisB.jpg,,darkgray white ,darkgray,white,,,spotted ,spotted,,,smooth,,400,,,,,,,,,,x,,,x,gillian
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisC.jpg,,darkbrown lightbrown ,darkbrown,lightbrown,,,banded ,banded,,,smooth,,400,,,,,,,,,,x,,,x,gillian
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisE.jpg,,black yellow ,black,yellow,,,banded ,banded,,,smooth,,400,,,,,,,,,,x,,,x,gillian
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisG.jpg,,lightgray black orange ,lightgray,black,orange,,striped banded ,striped,banded,,smooth,,400,,,,,,,,,,x,,,x,gillian
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisH.jpg,,black darkgray yellow ,black,darkgray,yellow,,uniform ,uniform,,,smooth,,400,,,,,,,,,,x,,,x,gillian
+127,Platyceps ventromaculatus,Coluber_ventromaculatus.jpg,,lightgray white lightbrown ,lightgray,white,lightbrown,,blotched anterior-posterior ,blotched,anterior-posterior,,smooth,,NA,,,,,,,,,,,,,,gillian
+127,Platyceps ventromaculatus,Platyceps_ventromaculatus0.jpg,,lightbrown brown ,lightbrown,brown,,,diamond banded uniform anterior-posterior ,diamond,banded,,smooth,,1260,x,,x,,x,x,,,x,x,,x,,gillian
+127,Platyceps ventromaculatus,Platyceps_ventromaculatus2.jpg,,brown lightbrown ,brown,lightbrown,,,spotted anterior-posterior uniform ,spotted,anterior-posterior,,smooth,,1260,x,,x,,x,x,,,x,x,,x,,gillian
+128,Psammophis aegyptius,Psammophis_aegyptius.jpg,,darkgray ,darkgray,,,,uniform ,uniform,,,smooth,,1500,,,,x,,,,,,,,,,gillian
+128,Psammophis aegyptius,Psammophis_aegyptius2.jpg,,darkgray ,darkgray,,,,uniform ,uniform,,,smooth,,1500,,,,x,,,,,,,,,,gillian
+130,Psammophis schokari,Psammophis_schokari.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,striped ,striped,,,smooth,,1500,,x,x,,x,x,,x,x,x,x,x,x,gillian
+130,Psammophis schokari,Psammophis_schokari5.jpg,body ,beige ,beige,,,,striped ,striped,,,smooth,,1500,,x,x,,x,x,,x,x,x,x,x,x,gillian
+130,Psammophis schokari,Psammophis_schokari6.jpg,,darkbrown beige ,darkbrown,beige,,,striped ,striped,,,smooth,,1500,,x,x,,x,x,,x,x,x,x,x,x,gillian
+130,Psammophis schokari,Psammophis_schokari7.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,1500,,x,x,,x,x,,x,x,x,x,x,x,gillian
+131,Pseudocerastes fieldi,Pseudocerastes_fieldi.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,890,,x,x,,x,,,,,x,x,,,gillian
+132,Pseudocerastes persicus,Pseudocerastes_persicus.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,1080,,x,x,,x,x,,x,,x,x,x,,gillian
+132,Pseudocerastes persicus,Pseudocerastes_persicus1.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,1080,,x,x,,x,x,,x,,x,x,x,,gillian
+132,Pseudocerastes persicus,Pseudocyclophis_persicus.jpg,,black beige ,black,beige,,,banded ,banded,,,smooth,x,1080,,x,x,,x,x,,x,,x,x,x,,gillian
+132,Pseudocerastes persicus,Pseudocyclophis_persicus2.jpg,,black beige ,black,beige,,,banded ,banded,,,smooth,x,1080,,x,x,,x,x,,x,,x,x,x,,gillian
+133,Pseudocerastes urarachnoides,Pseudocerastes_urarachnoides.jpg,,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,530,,x,x,,,,,,,,,,,gillian
+134,Ptyas mucosa,Ptyas_mucosa.jpg,,brown ,brown,,,,uniform ,uniform,,,smooth,,3700,,x,,,,,,,,,,,,gillian
+134,Ptyas mucosa,Ptyas_mucosa4.jpg,,black darkgray ,black,darkgray,,,banded ,banded,,,smooth,,3700,,x,,,,,,,,,,,,gillian
+134,Ptyas mucosa,Ptyas_mucosus3.jpg,,green lightbrown black ,green,lightbrown,black,,anterior-posterior uniform banded ,anterior-posterior,uniform,,smooth,,3700,,x,,,,,,,,,,,,gillian
+134,Ptyas mucosa,Ptyas_mucosus4.jpg,,darkbrown yellow ,darkbrown,yellow,,,banded ,banded,,,smooth,,3700,,x,,,,,,,,,,,,gillian
+135,Rhynchocalamus arabicus,Rhynchocalamus_arabicus.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,278,,,,,,,,x,,,,,x,gillian
+135,Rhynchocalamus arabicus,Rhynchocalamus_arabicus2.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,278,,,,,,,,x,,,,,x,gillian
+136,Rhynchocalamus dayanae,Rhynchocalamus_dayanae.jpg,,black yellow ,black,yellow,,,uniform ,uniform,,,smooth,,526,,,,x,,,,,,,,,,gillian
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus.jpg,,black beige ,black,beige,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,gillian
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus2.jpg,,black beige ,black,beige,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,gillian
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus4.jpg,,black lightbrown ,black,lightbrown,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,gillian
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus5.jpg,,black beige ,black,beige,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,gillian
+139,Rhynchocalamus satunini,Rhynchocalamus_satunini.jpg,,orange ,orange,,,,uniform ,uniform,,yes,smooth,,410,,x,x,,,,,,,,,,,gillian
+140,Spalerosophis diadema,Spalerosophis_d_atriceps.jpg,,beige black red ,beige,black,red,,spotted ,spotted,,yes,keeled,,NA,,,,,,,,,,,,,,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema1.jpg,,beige red black ,beige,red,black,,spotted ,spotted,,,smooth,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema2.jpg,,orange red black ,orange,red,black,,spotted ,spotted,,,smooth,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema3.jpg,,lightbrown brown ,lightbrown,brown,,,diamond ,diamond,,,smooth,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema4.jpg,,beige red black ,beige,red,black,,spotted ,spotted,,,smooth,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema5.jpg,,beige lightbrown ,beige,lightbrown,,,diamond spotted ,diamond,spotted,,smooth,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema6.jpg,,brown darkbrown ,brown,darkbrown,,,diamond ,diamond,,,keeled,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema7.jpg,,beige brown ,beige,brown,,,diamond ,diamond,,,keeled,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+140,Spalerosophis diadema,Spalerosophis_diadema_schirasianus.jpg,,lightbrown beige ,lightbrown,beige,,,diamond ,diamond,,,keeled,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,gillian
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisB.jpg,,beige black ,beige,black,,,banded ,banded,,,smooth,,1430,,x,,,,,,,,,,,,gillian
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisD.jpg,,orange green lightbrown ,orange,green,lightbrown,,diamond ,diamond,,,smooth,,1430,,x,,,,,,,,,,,,gillian
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisE.jpg,,brown lightbrown ,brown,lightbrown,,,diamond ,diamond,,,smooth,,1430,,x,,,,,,,,,,,,gillian
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisF.jpg,,lightbrown brown ,lightbrown,brown,,,banded ,banded,,,smooth,,1430,,x,,,,,,,,,,,,gillian
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisH.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,1430,,x,,,,,,,,,,,,gillian
+142,Telescopus dhara,Telescopus_dhara.jpg,,orange beige ,orange,beige,,,banded ,banded,,,smooth,w,1900,,,,x,x,,,x,,x,,x,x,gillian
+143,Telescopus fallax,Telescopus_fallax.jpg,,darkgray lightgray white ,darkgray,lightgray,white,,banded ,banded,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+143,Telescopus fallax,Telescopus_fallax2.jpg,,darkgray black ,darkgray,black,,,banded ,banded,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+143,Telescopus fallax,Telescopus_fallax_fallax.jpg,,darkgray black ,darkgray,black,,,diamond banded ,diamond,banded,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+143,Telescopus fallax,Telescopus_fallax_fallax_F.jpg,,lightgray darkgray black ,lightgray,darkgray,black,,banded ,banded,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+143,Telescopus fallax,Telescopus_fallax_fallax_J.jpg,,darkgray lightgray black ,darkgray,lightgray,black,,banded ,banded,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+143,Telescopus fallax,Telescopus_fallax_syriacus.jpg,,beige black ,beige,black,,,blotched ,blotched,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+143,Telescopus fallax,Telescopus_fallax_syriacus2.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,yes,smooth,w,1200,,x,x,x,x,,x,,,,x,,,gillian
+144,Telescopus hoogstraali,Telescopus_hoogstraali.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,gillian
+144,Telescopus hoogstraali,Telescopus_hoogstraali2.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,gillian
+144,Telescopus hoogstraali,Telescopus_hoogstraali4.jpg,,lightbrown black lightgray ,lightbrown,black,lightgray,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,gillian
+144,Telescopus hoogstraali,Telescopus_hoogstraali5.jpg,,lightbrown black ,lightbrown,black,,,blotched banded ,blotched,banded,,smooth,w,1020,,,,x,x,,,,,,,,,gillian
+144,Telescopus hoogstraali,Telescopus_hoogstraali6.jpg,,black lightgray lightbrown ,black,lightgray,lightbrown,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,gillian
+144,Telescopus hoogstraali,Telescopus_hoogstralii.jpg,,black lightbrown darkbrown ,black,lightbrown,darkbrown,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,gillian
+145,Telescopus nigriceps,Telescopus_nigriceps.jpg,,lightbrown black ,lightbrown,black,,,blotched ,blotched,,,smooth,w,600,,x,x,,x,,,,,,x,,,gillian
+146,Telescopus obtusus,Telescopus_obtusus.jpg,,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,w,1870,,,,,,,,,,,,,,gillian
+147,Telescopus rhinopoma,Telescopus_rhinopoma.jpg,,lightgray lightbrown ,lightgray,lightbrown,,,blotched ,blotched,,,smooth,w,1000,,x,,,,,,,,,,,,gillian
+147,Telescopus rhinopoma,Telescopus_rhinopoma2.jpg,,lightgray lightbrown ,lightgray,lightbrown,,,blotched ,blotched,,,smooth,w,1000,,x,,,,,,,,,,,,gillian
+148,Telescopus tesselatus,Kamali 2020 Telescopus tesselatusA.jpg,,lightgray brown ,lightgray,brown,,,diamond ,diamond,,,keeled,w,1030,,x,x,,,,,,,,,,,gillian
+148,Telescopus tesselatus,Kamali 2020 Telescopus tesselatusB.jpg,,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,smooth,w,1030,,x,x,,,,,,,,,,,gillian
+149,Vipera ammodytes,Vipera_ammodytes.jpg,,black darkgray ,black,darkgray,,,diamond ,diamond,,,smooth,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes.jpg,,white darkbrown black ,white,darkbrown,black,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes2.jpg,,black lightbrown ,black,lightbrown,,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes4.jpg,,lightgray darkbrown black ,lightgray,darkbrown,black,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes7.jpg,,lightgray brown ,lightgray,brown,,,diamond ,diamond,,,smooth,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes8.jpg,,lightbrown black ,lightbrown,black,,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_F.jpg,,white darkgray brown ,white,darkgray,brown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_female2.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,diamond ,diamond,,,smooth,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_M.jpg,,white black brown ,white,black,brown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_MF.jpg,,white black brown ,white,black,brown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis.jpg,,lightbrown darkbrown black ,lightbrown,darkbrown,black,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis4.jpg,,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F.jpg,,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F1.jpg,,beige brown darkbrown ,beige,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F2.jpg,,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F3.jpg,,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_M.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes montadoni,Vipera_ammodytes_montadoni_F1.jpg,,beige brown darkbrown ,beige,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes montadoni,Vipera_ammodytes_montadoni_F2.jpg,,beige brown darkbrown ,beige,brown,darkbrown,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+149,Vipera ammodytes montadoni,Vipera_ammodytes_montadoni_M.jpg,,lightbrown darkbrown black ,lightbrown,darkbrown,black,,diamond ,diamond,,,keeled,x,1100,,,,,,,,x,,,,,,gillian
+150,Vipera eriwanensis,Geniez 2018 Vipera eriwanensis.jpg,,darkgray lightgray ,darkgray,lightgray,,,diamond ,diamond,,,keeled,x,510,,x,,,,,,,,,,,,gillian
+151,Vipera transcaucasiana,Vipera_transcaucasiana_f.jpg,,darkgray black ,darkgray,black,,,blotched ,blotched,,,keeled,x,700,,x,,,,,,,,,,,,gillian
+151,Vipera transcaucasiana,Vipera_transcaucasiana_M.jpg,,lightgray black ,lightgray,black,,,diamond ,diamond,,,keeled,x,700,,x,,,,,,,,,,,,gillian
+151,Vipera transcaucasiana,Vipera_transcaucasiana_M2.jpg,,darkgray black ,darkgray,black,,,diamond ,diamond,,,keeled,x,700,,x,,,,,,,,,,,,gillian
+151,Vipera transcaucasiana,Vipera_transcaucasiana_mf.jpg,,darkgray lightgray black ,darkgray,lightgray,black,,diamond ,diamond,,,keeled,x,700,,x,,,,,,,,,,,,gillian
+151,Vipera transcaucasiana,Vipera_transcaucasiana_pair.jpg,,darkgray lightgray ,darkgray,lightgray,,,diamond ,diamond,,,keeled,x,700,,x,,,,,,,,,,,,gillian
+152,Vipera ursinii rakosiensis,Vipera_ursinii_rakosiensis.jpg,,darkgray darkbrown ,darkgray,darkbrown,,,diamond spotted ,diamond,spotted,,keeled,x,600,,,,,,,,x,,,,,,gillian
+152,Vipera ursinii rakosiensis,Vipera_ursinii_rakosiensis2.jpg,,beige darkbrown black ,beige,darkbrown,black,,diamond ,diamond,,,keeled,x,600,,,,,,,,x,,,,,,gillian
+152,Vipera ursinii tienshanica,Vipera_ursinii_tienshanica.jpg,,lightbrown darkbrown ,lightbrown,darkbrown,,,diamond spotted ,diamond,spotted,,keeled,x,600,,,,,,,,x,,,,,,gillian
+153,Walterinnesia aegyptia,Walterinnesia aegyptia.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,x,1400,,,x,x,x,,x,,,x,,,,gillian
+153,Walterinnesia aegyptia,Walterinnesia_aegyptia.jpg,,black ,black,,,,uniform ,uniform,,,smooth,x,1400,,,x,x,x,,x,,,x,,,,gillian
+153,Walterinnesia aegyptia,Walterinnesia_aegyptia2.jpg,,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,x,1400,,,x,x,x,,x,,,x,,,,gillian
+154,Walterinnesia morgani,Geniez 2018 Walterinnesia morgani.jpg,,black ,black,,,,uniform ,uniform,,,smooth,x,1170,,x,x,,,x,,,x,x,x,,,gillian
+156,Xerotyphlops socotranus,Typhlops_socotranus.jpg,,darkbrown purple ,darkbrown,purple,,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,gillian
+158,Xerotyphlops vermicularis,Typhlops_vermicularis.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,gillian
+158,Xerotyphlops vermicularis,Xerotyphlops_vermicularis.jpg,,purple ,purple,,,,uniform ,uniform,,,smooth,,400,,x,x,,,,,,,,,,,gillian
+160,Zamenis hohenackeri,Elaphe_hohenackeri.jpg,,darkgray darkbrown ,darkgray,darkbrown,,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,gillian
+160,Zamenis hohenackeri,Zamenis_hohenackeri.jpg,,darkgray darkbrown ,darkgray,darkbrown,,,banded spotted ,banded,spotted,,keeled,,760,,x,x,x,,,x,,,,x,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus.jpg,,darkbrown black lightgray ,darkbrown,black,lightgray,,striped diamond ,striped,diamond,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus3.jpg,,black green ,black,green,,,anterior-posterior uniform ,anterior-posterior,uniform,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus4.jpg,,green black ,green,black,,,anterior-posterior uniform ,anterior-posterior,uniform,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus6.jpg,,lightbrown lightgray ,lightbrown,lightgray,,,spotted ,spotted,,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus7.jpg,,brown darkbrown ,brown,darkbrown,,,anterior-posterior uniform ,anterior-posterior,uniform,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus8.jpg,,brown black lightgray ,brown,black,lightgray,,spotted ,spotted,,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus_subadult1.jpg,,brown lightgray ,brown,lightgray,,,blotched ,blotched,,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+161,Zamenis longissimus,Zamenis_longissimus_subadult2.jpg,,brown darkbrown lightgray ,brown,darkbrown,lightgray,,spotted ,spotted,,,smooth,,2000,,x,,,,,,x,,,,,,gillian
+162,Zamenis persica,Elaphe_persica.jpg,,black ,black,,,,uniform ,uniform,,,smooth,,1200,,x,,,,,,,,,,,,gillian
+162,Zamenis persica,Elaphe_persica2.jpg,,brown ,brown,,,,blotched ,blotched,,,smooth,,1200,,x,,,,,,,,,,,,gillian
+1,Atractaspis andersoni,Atractaspis_andersoni.jpg,body ,black ,black,,,,uniform ,uniform,, ,smooth,x,900, , , , , , , , , , , , ,x,andrew
+2,Atractaspis engaddensis,Atractaspis_engaddensis.jpg,body ,black ,black,,,,uniform ,uniform,, ,smooth,x,650,,,,x,x,,x,,,x,,,,andrew
+2,Atractaspis engaddensis,Atractaspis_engaddensis2.jpg,body ,black ,black,,,,,,, ,smooth,x,650,,,,x,x,,x,,,x,,,,andrew
+5,Bitis arietans,Bitis_arietans4.jpg,body ,lightgray beige black ,lightgray,beige,black,,diamond spotted ,diamond,spotted, ,keeled,x,1850,,,,,,,,x,,x,,,,andrew
+5,Bitis arietans,Bitis_arietans8.jpg,body ,beige black darkbrown ,beige,black,darkbrown,,diamond spotted ,diamond,spotted, ,keeled,x,1850,,,,,,,,x,,x,,,,andrew
+5,Bitis arietans ,Bitis_arietans_m.jpg,body ,brown beige black ,brown,beige,black,,banded ,banded,, ,keeled,x,1850,,,,,,,,x,,x,,,,andrew
+6,Boaedon fuliginosus,Boaedon_fuliginosus3.jpg,body ,lightbrown beige ,lightbrown,beige,,,uniform ,uniform,, ,smooth,,1300,,,,,,,,,,,,,x,andrew
+6,Boaedon fuliginosus,Boaedon_fuliginosus4.jpg,body ,black ,black,,,,uniform ,uniform,, ,smooth,,1300,,,,,,,,,,,,,x,andrew
+6,Boaedon fuliginosus,Lamprophis_fuliginosus.jpg,body ,darkgray lightgray ,darkgray,lightgray,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+7,Boaedon mentalis,Boaedon mentalis iNat o147690290.jpg,body ,lightbrown ,lightbrown,,,,uniform ,uniform,, ,,,1300,,,,,,,,,,,,,,andrew
+7,Boaedon mentalis,Boaedon mentalis iNat p5417590.jpg,body ,brown ,brown,,,,uniform ,uniform,, ,smooth,,1300,,,,,,,,,,,,,,andrew
+8,Boiga trigonata,Boiga_trigonata.jpg,body ,brown beige black ,brown,beige,black,,blotched ,blotched,, ,,,1250,,x,,,,,,,,,,,,andrew
+8,Boiga trigonata,Boiga_trigonata3.jpg,body ,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,, ,,,1250,,x,,,,,,,,,,,,andrew
+8,Boiga trigonata,Boiga_trigonata4.jpg,body ,white lightgray black ,white,lightgray,black,,blotched ,blotched,, ,,,1250,,x,,,,,,,,,,,,andrew
+8,Boiga trigonata,Boiga_trigonata5.jpg,body ,brown black beige ,brown,black,beige,,blotched ,blotched,, ,smooth,,1250,,x,,,,,,,,,,,,andrew
+8,Boiga trigonata,Boiga_trigonata6.jpg,body ,lightbrown beige black ,lightbrown,beige,black,,blotched ,blotched,, ,smooth,,1250,,x,,,,,,,,,,,,andrew
+9,Bungarus persicus,Abtin 2014 Bungarus persicus 1A.jpg,body ,black beige ,black,beige,,,blotched ,blotched,, ,smooth,x,1190,,x,,,,,,,,,,,,andrew
+9,Bungarus persicus,Abtin 2014 Bungarus persicus 2A.jpg,body ,darkgray beige ,darkgray,beige,,,blotched ,blotched,,,smooth,x,1190,,x,,,,,,,,,,,,andrew
+10,Cerastes cerastes,Cerastes_cerastes1.jpg,body ,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,andrew
+10,Cerastes cerastes,Cerastes_cerastes2.jpg,,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,andrew
+10,Cerastes cerastes,Cerastes_cerastes3.jpg,body ,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,,x,890,,,,x,x,,,,,x,,,,andrew
+10,Cerastes cerastes,Cerastes_cerastes7.jpg,body ,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,andrew
+10,Cerastes cerastes,Cerastes_cerastes8.jpg,body ,beige brown lightgray ,beige,brown,lightgray,,blotched ,blotched,,,,x,890,,,,x,x,,,,,x,,,,andrew
+10,Cerastes cerastes mutila,Cerastes_cerastes_mutila15.jpg,body ,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,andrew
+10,Cerastes cerastes mutila,Cerastes_cerastes_mutila3.jpg,body ,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,890,,,,x,x,,,,,x,,,,andrew
+11,Cerastes gasperettii,Cerastes_gasperettii.jpg,body ,beige brown lightgray ,beige,brown,lightgray,,blotched ,blotched,,,keeled,x,860,,x,x,x,x,x,,x,x,x,,x,x,andrew
+11,Cerastes gasperettii,Cerastes_gasprettii.jpg,body ,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,blotched ,blotched,,,keeled,x,860,,x,x,x,x,x,,x,x,x,,x,x,andrew
+11,Cerastes gasperettii mendelssohni,Cerastes_gasperettii_mendelssohni.jpg,body ,beige darkbrown lightgray ,beige,darkbrown,lightgray,,blotched ,blotched,,,keeled,x,860,,x,x,x,x,x,,x,x,x,,x,x,andrew
+12,Cerastes vipera,Cerastes_vipera.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,andrew
+12,Cerastes vipera,Cerastes_vipera2.jpg,body ,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,andrew
+12,Cerastes vipera,Cerastes_vipera3.jpg,body ,beige lightbrown black ,beige,lightbrown,black,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,andrew
+12,Cerastes vipera,Cerastes_vipera4.jpg,body ,beige brown lightbrown ,beige,brown,lightbrown,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,andrew
+12,Cerastes vipera,Cerastes_vipera5.jpg,body ,beige brown lightbrown ,beige,brown,lightbrown,,blotched ,blotched,,,keeled,x,480,,,,x,,,,,,,,,,andrew
+13,Coronella austriaca,Coronella_austriaca.jpg,body ,brown lightbrown darkbrown ,brown,lightbrown,darkbrown,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca,Coronella_austriaca11.jpg,body ,lightgray black ,lightgray,black,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca,Coronella_austriaca3.jpg,body ,lightbrown brown ,lightbrown,brown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca,Coronella_austriaca5.jpg,body ,lightgray darkbrown ,lightgray,darkbrown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca,Coronella_austriaca8.jpg,body ,darkgray black ,darkgray,black,,,blotched ,blotched,,,,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca,Coronella_austriaca9.jpg,body ,darkgray black ,darkgray,black,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca austriaca,Coronella_austriaca_austriaca.jpg,body ,lightbrown brown ,lightbrown,brown,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca austriaca,Coronella_austriaca_austriaca2.jpg,body ,brown black ,brown,black,,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca F,Coronella_austriaca_F.jpg,body ,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca F,Coronella_austriaca_F2.jpg,body ,brown darkbrown beige ,brown,darkbrown,beige,,blotched ,blotched,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca F,Coronella_austriaca_F3.jpg,body ,lightgray black darkgray ,lightgray,black,darkgray,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca F,Coronella_austriaca_F4.jpg,body ,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,spotted ,spotted,,,smooth,,800,,x,,,,,,x,,,,,,andrew
+13,Coronella austriaca juvenil,Coronella_austriaca_juvenil.jpg,body ,lightgray black ,lightgray,black,,,spotted ,spotted,,,,,800,,x,,,,,,x,,,,,,andrew
+14,Daboia palaestinae,Vipera_palaestinae2.jpg,body ,lightbrown darkbrown black ,lightbrown,darkbrown,black,,blotched ,blotched,,,keeled,,NA,,,,,,,,,,,,,,andrew
+15,Dasypeltis scabra,Dasypeltis_scabra2.jpg,body ,lightgray lightbrown black ,lightgray,lightbrown,black,,blotched ,blotched,,,keeled,,1160,,,,,,,,,,x,,,x,andrew
+16,Ditypophis vivax,Ditypophis_vivax.jpg,body ,beige lightbrown ,beige,lightbrown,,,blotched ,blotched,,,smooth,,356,,,,,,,,,,,,,x,andrew
+17,Dolichophis andreanus,Hierophis_andreanus1.jpg,body ,lightbrown black ,lightbrown,black,,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,andrew
+17,Dolichophis andreanus,Hierophis_andreanus2.jpg,body ,brown black ,brown,black,,,uniform ,uniform,,,,,NA,,,,,,,,,,,,,,andrew
+17,Dolichophis andreanus,Hierophis_andreanus5.jpg,body ,lightbrown beige black ,lightbrown,beige,black,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+17,Dolichophis andreanus,Hierophis_andreanus6.jpg,body ,beige lightbrown black ,beige,lightbrown,black,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,andrew
+18,Dolichophis caspius,Dolichophis_caspius.jpg,body ,lightgray beige black ,lightgray,beige,black,,uniform ,uniform,,,smooth,,2500,,x,x,,x,,,x,,,,,,andrew
+18,Dolichophis caspius,Dolichophis_caspius5.jpg,body ,darkgray ,darkgray,,,,uniform ,uniform,,,,,2500,,x,x,,x,,,x,,,,,,andrew
+18,Dolichophis caspius,Dolichophis_caspius6.jpg,body ,darkgray ,darkgray,,,,uniform ,uniform,,,smooth,,2500,,x,x,,x,,,x,,,,,,andrew
+18,Dolichophis caspius,Dolichophis_caspius7.jpg,body ,lightgray darkgray beige ,lightgray,darkgray,beige,,striped ,striped,,,smooth,,2500,,x,x,,x,,,x,,,,,,andrew
+18,Dolichophis caspius,Dolichophis_caspius8.jpg,body ,lightgray darkgray  beige ,lightgray,darkgray,beige,,uniform ,uniform,,,,,2500,,x,x,,x,,,x,,,,,,andrew
+18,Dolichophis caspius,Hierophis_caspius.jpg,body ,darkgray orange ,darkgray,orange,,,uniform ,uniform,,,,,NA,,,,,,,,,,,,,,andrew
+19,Dolichophis jugularis,Dolichophis_jugularis.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,2500,,x,x,x,x,x,x,,,,x,,,andrew
+19,Dolichophis jugularis,Dolichophis_jugularis_juv.jpg,body ,lightbrown black beige ,lightbrown,black,beige,,spotted ,spotted,,,,,2500,,x,x,x,x,x,x,,,,x,,,andrew
+20,Dolichophis schmidti,Dolichophis_schmidti.jpg,body ,lightgray black ,lightgray,black,,,spotted ,spotted,,,,,1600,,x,x,,x,,,,,,,,,andrew
+21,Echis borkini,Echis borkini iNat 141342280.jpg,body ,lightgray white black ,lightgray,white,black,,diamond ,diamond,,,keeled,x,555,,,,,,,,,,,,,x,andrew
+22,Echis carinatus,Echis_carinatus.jpg,body ,darkbrown beige black ,darkbrown,beige,black,,blotched ,blotched,,,,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus,Echis_carinatus1.jpg,body ,brown beige lightbrown ,brown,beige,lightbrown,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus,Echis_carinatus2.jpg,body ,darkbrown white beige ,darkbrown,white,beige,,blotched ,blotched,,,,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus,Echis_carinatus4.jpg,body ,darkbrown beige black ,darkbrown,beige,black,,diamond ,diamond,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus,Echis_carinatus7.jpg,body ,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus,Echis_carinatus8.jpg,body ,lightbrown lightgray beige ,lightbrown,lightgray,beige,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus,Echis_carinatus9.jpg,body ,brown beige black ,brown,beige,black,,diamond ,diamond,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus sochureki,Echis_carinatus_sochureki.jpg,body ,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus sochureki,Echis_carinatus_sochureki5.jpg,body ,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus sochureki,Echis_carinatus_sochureki7.jpg,body ,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus sochureki,Echis_carinatus_sochureki8.jpg,body ,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+22,Echis carinatus sochureki,Echis_carinatus_sochureki9.jpg,body ,lightbrown white darkbrown ,lightbrown,white,darkbrown,,blotched ,blotched,,,keeled,x,800,,x,x,,,,,x,x,,,x,,andrew
+23,Echis coloratus,Echis_coloratus.jpg,body ,beige lightbrown white ,beige,lightbrown,white,,blotched ,blotched,,,,x,900,,,,x,x,,,x,,x,,,x,andrew
+23,Echis coloratus,Echis_coloratus2.jpg,body ,white brown lightbrown ,white,brown,lightbrown,,blotched ,blotched,,,keeled,x,900,,,,x,x,,,x,,x,,,x,andrew
+23,Echis coloratus,Echis_coloratus3.jpg,body ,white brown lightbrown ,white,brown,lightbrown,,blotched ,blotched,,,,x,900,,,,x,x,,,x,,x,,,x,andrew
+23,Echis coloratus,Echis_coloratus4.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,blotched ,blotched,,,keeled,x,900,,,,x,x,,,x,,x,,,x,andrew
+24,Echis khosatzkii,Egan 2007 Echis khosatzkii3.jpg,body ,brown darkbrown beige ,brown,darkbrown,beige,,blotched ,blotched,,,keeled,x,600,,,,,,,,x,,,,,x,andrew
+25,Echis omanensis,Carranza 2021 Echis omanensisB.jpg,body ,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,keeled,x,800,,,,,,,,,,,,x,,andrew
+26,Echis pyramidum,Echis_pyramidum.jpg,body ,darkbrown beige lightgray ,darkbrown,beige,lightgray,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,andrew
+26,Echis pyramidum,Echis_pyramidum1.jpg,body ,brown beige darkbrown ,brown,beige,darkbrown,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,andrew
+26,Echis pyramidum,Echis_pyramidum2.jpg,body ,beige lightbrown darkbrown ,beige,lightbrown,darkbrown,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,andrew
+26,Echis pyramidum,Echis_pyramidum3.jpg,body ,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,keeled,x,850,,,,,,,,,,x,,,x,andrew
+28,Eirenis collaris,Eirenis_collaris2.jpg,body ,lightbrown black ,lightbrown,black,,,uniform ,uniform,,yes,smooth,,403,,x,x,,x,,x,,,,,,,andrew
+30,Eirenis coronelloides,Eirenis_coronelloides.jpg,body ,white black ,white,black,,,banded ,banded,,,,,334,,x,x,,x,,,,,,x,,,andrew
+31,Eirenis decemlineata,Eirenis_decemlineata.jpg,body ,lightbrown brown ,lightbrown,brown,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,andrew
+31,Eirenis decemlineatus,Eirenis_decemlineatus.jpg,body ,lightbrown brown ,lightbrown,brown,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,andrew
+31,Eirenis decemlineatus,Eirenis_decemlineatus2.jpg,body ,brown beige ,brown,beige,,,striped ,striped,,,,,807,,x,x,x,x,,x,,,,x,,,andrew
+31,Eirenis decemlineatus,Eirenis_decemlineatus3.jpg,body ,beige lightbrown ,beige,lightbrown,,,striped ,striped,,,,,807,,x,x,x,x,,x,,,,x,,,andrew
+31,Eirenis decemlineatus,Eirenis_decemlineatus4.jpg,body ,lightbrown beige ,lightbrown,beige,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,andrew
+31,Eirenis decemlineatus,Sindaco 2013 Eirenis decemlineatusB.jpg,body ,brown black ,brown,black,,,striped ,striped,,,smooth,,807,,x,x,x,x,,x,,,,x,,,andrew
+33,Eirenis levantinus,Eirenis_levantinus.jpg,body ,lightgray lightbrown black ,lightgray,lightbrown,black,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,andrew
+33,Eirenis levantinus,Eirenis_levantinus6.jpg,body ,lightbrown black orange ,lightbrown,black,orange,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,andrew
+33,Eirenis levantinus,Sindaco 2013 Eirenis levantinusA.jpg,body ,lightbrown lightgray black ,lightbrown,lightgray,black,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,andrew
+33,Eirenis levantinus,Sindaco 2013 Eirenis levantinusB.jpg,body ,lightbrown black beige ,lightbrown,black,beige,,uniform ,uniform,,,smooth,,462,,,,x,,,x,,,,x,,,andrew
+34,Eirenis lineomaculatus,Eirenis_lineomaculatus.jpg,body ,beige brown lightbrown ,beige,brown,lightbrown,,spotted ,spotted,,,smooth,,316,,,,x,x,,x,,,,x,,,andrew
+34,Eirenis lineomaculatus,Eirenis_lineomaculatus2.jpg,body ,lightgray darkbrown beige ,lightgray,darkbrown,beige,,spotted ,spotted,,,smooth,,316,,,,x,x,,x,,,,x,,,andrew
+34,Eirenis lineomaculatus,Eirenis_lineomaculatus3.jpg,body ,lightgray brown beige ,lightgray,brown,beige,,blotched ,blotched,,,smooth,,316,,,,x,x,,x,,,,x,,,andrew
+35,Eirenis medus,Sindaco 2013 Eirenis medusA.jpg,body ,darkgray black ,darkgray,black,,,blotched ,blotched,,,,,310,,x,,,,,,,,,,,,andrew
+36,Eirenis modestus,Eirenis_modestus.jpg,body ,brown black beige ,brown,black,beige,,uniform ,uniform,,,smooth,,600,,x,x,,,,,,,,,,,andrew
+36,Eirenis modestus,Eirenis_modestus3.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,uniform ,uniform,,,,,600,,x,x,,,,,,,,,,,andrew
+37,Eirenis nigrofasciatus,Rajabizadeh 2015 Eirenis nigrofasciatus.jpg,body ,beige black ,beige,black,,,banded ,banded,,,smooth,,360,,x,x,,,,,,,,,,,andrew
+38,Eirenis occidentalis,Rajabizadeh 2015 Eirenis occidentalis.jpg,body ,brown darkbrown ,brown,darkbrown,,,uniform ,uniform,,yes,smooth,,362,,x,,,,,,,,,,,,andrew
+39,Eirenis persicus,Eirenis_persicus.jpg,body ,lightbrown black beige ,lightbrown,black,beige,,uniform ,uniform,,yes,smooth,,1080,,x,x,,,,,,,,,,,andrew
+39,Eirenis persicus,Rajabizadeh 2015 Eirenis persicusA.jpg,body ,beige darkbrown ,beige,darkbrown,,,uniform ,uniform,,,smooth,,1080,,x,x,,,,,,,,,,,andrew
+39,Eirenis persicus,Rajabizadeh 2015 Eirenis persicusB.jpg,body ,beige darkbrown ,beige,darkbrown,,,uniform ,uniform,,,smooth,,1080,,x,x,,,,,,,,,,,andrew
+39,Eirenis persicus,Rajabizadeh 2015 Eirenis walteri.jpg,body ,beige darkbrown ,beige,darkbrown,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+40,Eirenis punctatolineatus,Eirenis_punctatolineatus.jpg,body ,lightgray brown darkbrown ,lightgray,brown,darkbrown,,spotted ,spotted,,,smooth,,600,,x,x,,,,,,,,,,,andrew
+41,Eirenis rafsanjanicus,Akbarpour 2020 Eirenis rafsanjanicusA.jpg,body ,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,,,,374,,x,,,,,,,,,,,,andrew
+41,Eirenis rafsanjanicus,Akbarpour 2020 Eirenis rafsanjanicusB.jpg,body ,lightbrown darkbrown darkgray ,lightbrown,darkbrown,darkgray,,blotched ,blotched,,,,,374,,x,,,,,,,,,,,,andrew
+43,Eirenis rothi,Eirenis_rothi2.jpg,body ,brown black beige ,brown,black,beige,,uniform ,uniform,,,smooth,,350,,,,x,x,,x,,,,x,,,andrew
+43,Eirenis rothi,Eirenis_rothii.jpg,body ,darkbrown black beige ,darkbrown,black,beige,,uniform ,uniform,,,smooth,,350,,,,x,x,,x,,,,x,,,andrew
+44,Eirenis yassujicus,Fathinia 2019 Eirenis yassujicusA.jpg,body ,lightbrown ,lightbrown,,,,uniform ,uniform,,,smooth,,505,,x,,,,,,,,,,,,andrew
+45,Elaphe dione,Elaphe_dione.jpg,body ,brown beige black ,brown,beige,black,,striped ,striped,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+45,Elaphe dione,Elaphe_dione1.jpg,body ,black beige ,black,beige,,,uniform ,uniform,, ,smooth, ,1000, ,x, , , , , , , , , , , ,andrew
+45,Elaphe dione,Elaphe_dione4.jpg,body ,brown lightgray black ,brown,lightgray,black,,striped ,striped,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+46,Elaphe sauromates,Elaphe_sauromates.jpg,body ,black orange beige ,black,orange,beige,,blotched ,blotched,,,,,2000,,,,x,,,x,x,,,x,,,andrew
+46,Elaphe sauromates,Elaphe_sauromates5.jpg,body ,black lightbrown beige ,black,lightbrown,beige,,blotched ,blotched,,,smooth,,2000,,,,x,,,x,x,,,x,,,andrew
+46,Elaphe sauromates,Elaphe_sauromates6.jpg,body ,black orange beige ,black,orange,beige,,blotched ,blotched,,,,,2000,,,,x,,,x,x,,,,,,andrew
+47,Elaphe urartica,Elaphe_urartica2.jpg,body ,black beige brown ,black,beige,brown,,blotched ,blotched,,,smooth,,1200,,x,,,,,,,,,,,,andrew
+47,Elaphe urartica,Elaphe_urartica3.jpg,body ,black beige brown ,black,beige,brown,,blotched ,blotched,,,smooth,,1200,,x,,,,,,,,,,,,andrew
+48,Eristicophis macmahoni,Eristicophis_macmahoni.jpg,body ,lightbrown black beige ,lightbrown,black,beige,,spotted ,spotted,,,keeled,,719,,x,,,,,,,,,,,,andrew
+48,Eristicophis macmahoni,Eristicophis_macmahonii2.jpg,body ,beige brown white ,beige,brown,white,,spotted ,spotted,,,keeled,,719,,x,,,,,,,,,,,,andrew
+49,Eryx colubrinus juvenile,Eryx_colubrinus_juvenile.jpg,body ,yellow black ,yellow,black,,,blotched ,blotched,,,smooth,,900,,,,,,,,,,,,,,andrew
+49,Eryx colubrinus loveridgei,Eryx_colubrinus_loveridgei.jpg,body ,orange black ,orange,black,,,blotched ,blotched,,,smooth,,900,,,,,,,,,,,,,,andrew
+50,Eryx elegans,Sindaco 2013 Eryx elegansA.jpg,body ,lightgray darkgray ,lightgray,darkgray,,,blotched ,blotched,,,smooth,,690,,x,,,,,,,,,,,,andrew
+51,Eryx jaculus,Sindaco 2013 Eryx jaculusA.jpg,body ,brown lightbrown lightgray ,brown,lightbrown,lightgray,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus,Eryx_jaculus.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus,Eryx_jaculus3.jpg,body ,lightgray darkgray ,lightgray,darkgray,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus,Eryx_jaculus5.jpg,body ,beige lightbrown darkbrown ,beige,lightbrown,darkbrown,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus,Eryx_jaculus6.jpg,body ,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus jaculus,Eryx_jaculus_jaculus.jpg,body ,beige black ,beige,black,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus jaculus,Eryx_jaculus_jaculus2.jpg,body ,black lightbrown ,black,lightbrown,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus turcicus,Eryx_jaculus_turcicus.jpg,body ,black darkgray ,black,darkgray,,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus turcicus,Eryx_jaculus_turcicus4.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+51,Eryx jaculus turcicus,Eryx_jaculus_turcicus5.jpg,body ,lightgray black darkbrown ,lightgray,black,darkbrown,,blotched ,blotched,,,smooth,,800,,x,x,x,x,,,x,,x,x,,,andrew
+52,Eryx jayakari,Eryx_jayakari.jpg,body ,black red beige ,black,red,beige,,blotched ,blotched,,,smooth,,640,,x,x,,,x,,x,x,x,,x,,andrew
+52,Eryx jayakari,Eryx_jayakari_female.jpg,body ,lightbrown orange beige ,lightbrown,orange,beige,,blotched ,blotched,,,smooth,,640,,x,x,,,x,,x,x,x,,x,,andrew
+53,Eryx johnii,Sindaco 2013 Eryx johnii.jpg,body ,black lightbrown beige ,black,lightbrown,beige,,blotched ,blotched,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii.jpg,body ,beige brown ,beige,brown,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii10.jpg,body ,brown darkbrown ,brown,darkbrown,,,banded ,banded,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii11.jpg,body ,beige brown black ,beige,brown,black,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii12.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii13.jpg,body ,darkbrown black ,darkbrown,black,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii2.jpg,body ,brown ,brown,,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii3.jpg,body ,brown darkbrown black ,brown,darkbrown,black,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii5.jpg,body ,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii7.jpg,body ,lightbrown darkgray ,lightbrown,darkgray,,,banded ,banded,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+53,Eryx johnii,Eryx_johnii9.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,1000,,x,,,,,,,,,,,,andrew
+54,Eryx miliaris,Eryx_miliaris3.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,andrew
+54,Eryx miliaris,Eryx_tataricus.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+54,Eryx miliaris,Eryx_tataricus_speciosus.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+54,Eryx miliaris,Eryx_tataricus_tataricus.jpg,body ,lightgray brown black ,lightgray,brown,black,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+54,Eryx miliaris miliaris,Eryx_miliaris_miliaris.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,andrew
+54,Eryx miliaris miliaris,Eryx_miliaris_miliaris2.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,andrew
+54,Eryx miliaris nogaiorum,Eryx_miliaris_nogaiorum.jpg,body ,lightgray black white ,lightgray,black,white,,blotched ,blotched,,,smooth,,910,,x,x,,,,,,,,,,,andrew
+54,Eryx miliaris nogaiorum,Eryx_miliaris_nogaiorum2.jpg,body ,black beige ,black,beige,,,uniform ,uniform,,,smooth,,910,,x,x,,,,,,,,,,,andrew
+55,Eryx sistanensis,Eryx_sistanensis.jpg,body ,lightbrown darkbrown black ,lightbrown,darkbrown,black,,blotched ,blotched,,,smooth,,855,,x,,,,,,,,,,,,andrew
+55,Eryx sistanensis,Eryx_sistanensis2.jpg,body ,lightbrown darkbrown black ,lightbrown,darkbrown,black,,blotched ,blotched,,,smooth,,855,,x,,,,,,,,,,,,andrew
+55,Eryx sistanensis,Eryx_sistanensis3.jpg,body ,lightbrown darkbrown black ,lightbrown,darkbrown,black,,blotched ,blotched,,,smooth,,855,,x,,,,,,,,,,,,andrew
+55,Eryx sistanensis,Eryx_sistanensis4.jpg,body ,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,blotched ,blotched,,,smooth,,855,,x,,,,,,,,,,,,andrew
+56,Gloydius caucasicus,Kamali 2020 Gloydius caucasicus.jpg,body ,lightbrown darkbrown black ,lightbrown,darkbrown,black,,blotched ,blotched,,,keeled,,660,,x,,,,,,,,,,,,andrew
+57,Gloydius halys,Gloydius_halys.jpg,body ,darkgray lightgray black ,darkgray,lightgray,black,,blotched ,blotched,,,keeled,,750,,x,,,,,,,,,,,,andrew
+57,Gloydius halys caraganus,Gloydius_halys_caraganus3.jpg,body ,lightgray brown ,lightgray,brown,,,blotched ,blotched,,,keeled,,750,,x,,,,,,,,,,,,andrew
+57,Gloydius halys caraganus,Gloydius_halys_caraganus_m.jpg,body ,beige lightbrown brown ,beige,lightbrown,brown,,blotched ,blotched,,,keeled,,750,,x,,,,,,,,,,,,andrew
+58,Gloydius intermedius,Gloydius_intermedius.jpg,body ,darkgray lightgray black ,darkgray,lightgray,black,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,andrew
+58,Gloydius intermedius,Gloydius_intermedius2.jpg,body ,black brown ,black,brown,,,banded ,banded,,,,,740,,,,,,,,,,,,,,andrew
+58,Gloydius intermedius,Gloydius_intermedius3.jpg,body ,black lightgray ,black,lightgray,,,banded ,banded,,,,,740,,,,,,,,,,,,,,andrew
+58,Gloydius intermedius,Gloydius_intermedius4.jpg,body ,brown beige darkbrown ,brown,beige,darkbrown,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,andrew
+58,Gloydius intermedius,Gloydius_intermedius5.jpg,body ,brown lightbrown black ,brown,lightbrown,black,,banded ,banded,,,keeled,,740,,,,,,,,,,,,,,andrew
+58,Gloydius intermedius saxat,Gloydius_intermedius_saxat.jpg,body ,darkbrown lightgray black ,darkbrown,lightgray,black,,banded ,banded,,,,,740,,,,,,,,,,,,,,andrew
+59,Hemerophis socotrae,Hemerophis_socotrae.jpg,body ,darkgray beige black ,darkgray,beige,black,,banded ,banded,,,smooth,,1480,,,,,,,,,,,,,,andrew
+60,Hemorrhois nummifer,Hemorrhois_nummifer.jpg,body ,darkgray lightgray black ,darkgray,lightgray,black,,blotched ,blotched,,,,,1275,,x,x,x,x,,x,,,,x,,,andrew
+61,Hemorrhois ravergieri,Coluber_ravergieri.jpg,body ,lightgray black white ,lightgray,black,white,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+61,Hemorrhois ravergieri,Hemorrhois_ravergieri1.jpg,body ,beige black white ,beige,black,white,,blotched ,blotched,,,,,1392,,x,x,,x,,x,,,,x,,,andrew
+61,Hemorrhois ravergieri,Hemorrhois_ravergieri4.jpg,body ,lightgray black white ,lightgray,black,white,,blotched ,blotched,,,,,1392,,x,x,,x,,x,,,,x,,,andrew
+61,Hemorrhois ravergieri,Hemorrhois_ravergieri6.jpg,body ,beige black ,beige,black,,,blotched ,blotched,,,,,1392,,x,x,,x,,x,,,,x,,,andrew
+63,Hydrophis curtus,Lapemis_curtus1.jpg,body ,darkgray lightgray beige ,darkgray,lightgray,beige,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,andrew
+64,Hydrophis cyanocinctus,Hydrophis_cyanocinctus.jpg,body ,darkgray lightgray black ,darkgray,lightgray,black,,banded ,banded,,,,x,2750,,x,,,,,,x,x,,,x,,andrew
+65,Hydrophis fasciatus,Hydrophis_fasciatus1.jpg,body ,beige black lightgray ,beige,black,lightgray,,banded ,banded,,,,x,1100,,,,,,,,,,,,,,andrew
+66,Hydrophis hardwickii,Kharin 2016 Hydrophis hardwickii.jpg,body ,black white ,black,white,,,blotched ,blotched,,,keeled,x,1000,,x,,,,,,,,,,x,,andrew
+66,Hydrophis hardwickii,Mehrtens 1987 Hydrophis hardwickii 2.jpg,body ,lightbrown beige ,lightbrown,beige,,,uniform ,uniform,,,keeled,x,1000,,x,,,,,,,,,,x,,andrew
+66,Hydrophis hardwickii,Mehrtens 1987 Hydrophis hardwickii.jpg,body ,darkgray beige ,darkgray,beige,,,blotched ,blotched,,,keeled,x,1000,,x,,,,,,,,,,x,,andrew
+66,Hydrophis hardwickii,O'Shea 1996 Hydrophis hardwickii.jpg,body ,brown beige ,brown,beige,,,blotched ,blotched,,,keeled,x,1000,,x,,,,,,,,,,,,andrew
+67,Hydrophis lapemoides,Hydrophis_lapemoides.jpg,body ,black white ,black,white,,,banded ,banded,,,,x,1050,,x,,,,,,x,x,,,x,,andrew
+67,Hydrophis lapemoides,Hydrophis_lapemoides1.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,banded ,banded,,,,x,1050,,x,,,,,,x,x,,,x,,andrew
+67,Hydrophis lapemoides,Hydrophis_lapemoides2.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,banded ,banded,,,,x,1050,,x,,,,,,x,x,,,x,,andrew
+67,Hydrophis lapemoides,Hydrophis_lapemoides3.jpg,body ,black white ,black,white,,,banded ,banded,,,smooth,x,1050,,x,,,,,,x,x,,,x,,andrew
+67,Hydrophis lapemoides,Hydrophis_lapemoides4.jpg,body ,black lightgray ,black,lightgray,,,banded ,banded,,,,x,1050,,x,,,,,,x,x,,,x,,andrew
+67,Hydrophis lapemoides,Hydrophis_lapemoides5.jpg,body ,black lightgray ,black,lightgray,,,banded ,banded,,,,x,1050,,x,,,,,,x,x,,,x,,andrew
+69,Hydrophis ocellatus,Hydrophis_ocellatus.jpg,body ,darkgray beige darkbrown ,darkgray,beige,darkbrown,,blotched ,blotched,,,,x,950,,,,,,,,,,,,,,andrew
+70,Hydrophis ornatus,Hydrophis_ornatus.jpg,body ,darkgray lightgray beige ,darkgray,lightgray,beige,,blotched ,blotched,,,,x,1115,,x,,,,,,x,,,,x,,andrew
+71,Hydrophis platura,Pelamis_platura1.jpg,body ,black beige ,black,beige,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,andrew
+71,Hydrophis platura,Pelamis_platura2.jpg,body ,black white ,black,white,,,uniform ,uniform,,,,,NA,,,,,,,,,,,,,,andrew
+71,Hydrophis platurus,Hydrophis_platurus.jpg,body ,black white ,black,white,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,andrew
+71,Hydrophis platurus,Hydrophis_platurus5.jpg,body ,black white ,black,white,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,andrew
+71,Hydrophis platurus,Hydrophis_platurus6.jpg,body ,darkgray yellow ,darkgray,yellow,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,andrew
+71,Hydrophis platurus,Hydrophis_platurus7.jpg,body ,black yellow ,black,yellow,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,andrew
+71,Hydrophis platurus,Hydrophis_platurus9.jpg,body ,black yellow ,black,yellow,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,andrew
+71,Hydrophis platurus,Hydrophis_platurus_xanthos.jpg,body ,yellow ,yellow,,,,uniform ,uniform,,,smooth,x,880,,x,x,,,,,x,x,,,x,,andrew
+72,Hydrophis schistosa,Enhydrina_schistosa1.jpg,body ,black lightgray beige ,black,lightgray,beige,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,andrew
+72,Hydrophis schistosa,Enhydrina_schistosa3.jpg,body ,darkgray lightgray beige ,darkgray,lightgray,beige,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,andrew
+72,Hydrophis schistosa,Enhydrina_schistosa4.jpg,body ,lightgray darkgray beige ,lightgray,darkgray,beige,,banded ,banded,,,,,NA,,,,,,,,,,,,,,andrew
+72,Hydrophis schistosa,Enhydrina_schistosa5.jpg,body ,lightgray darkgray beige ,lightgray,darkgray,beige,,banded ,banded,,,,,NA,,,,,,,,,,,,,,andrew
+73,Hydrophis spiralis,Hydrophis_spiralis.jpg,body ,beige lightbrown brown ,beige,lightbrown,brown,,banded ,banded,,,smooth,x,2750,,x,,,,,,x,,,,x,,andrew
+74,Hydrophis viperina,Thallasophina_viperina3.jpg,body ,darkgray lightgray ,darkgray,lightgray,,,blotched ,blotched,,,,,NA,,,,,,,,,,,,,,andrew
+63,Hyrophis curtus,Lapemis_curtus2.jpg,body ,beige darkbrown ,beige,darkbrown,,,banded ,banded,,,,,NA,,,,,,,,,,,,,,andrew
+75,Indotyphlops braminus,Indotyphlops_braminus2.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,andrew
+75,Indotyphlops braminus,Indotyphlops_braminus3.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,andrew
+75,Indotyphlops braminus,Indotyphlops_braminus4.jpg,body ,darkbrown darkgray brown ,darkbrown,darkgray,brown,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,andrew
+75,Indotyphlops braminus,Indotyphlops_braminus5.jpg,body ,darkbrown black beige ,darkbrown,black,beige,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,andrew
+75,Indotyphlops braminus,Indotyphlops_braminus6.jpg,body ,black darkbrown ,black,darkbrown,,,uniform ,uniform,,,smooth,,141,,x,x,,,x,,x,,x,,x,,andrew
+75,Indotyphlops braminus,Ramphotyphlops_braminus.jpg,body ,darkgray ,darkgray,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+75,Indotyphlops braminus,Ramphotyphlops_braminus2.jpg,body ,brown ,brown,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+76,Letheobia simoni,Letheobia_simoni.jpg,body ,purple black darkgray ,purple,black,darkgray,,uniform ,uniform,,,smooth,,NA,,,,x,x,,,,,,,,,andrew
+76,Letheobia simoni,Letheobia_simoni2.jpg,body ,red ,red,,,,uniform ,uniform,,,smooth,,NA,,,,x,x,,,,,,,,,andrew
+76,Letheobia simoni,Letheobia_simoni3.jpg,body ,red brown ,red,brown,,,uniform ,uniform,,,smooth,,NA,,,,x,x,,,,,,,,,andrew
+77,Lycodon striatus,Lycodon_striatus.jpg,body ,black yellow white ,black,yellow,white,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,andrew
+77,Lycodon striatus,Lycodon_striatus2.jpg,body ,brown beige black ,brown,beige,black,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,andrew
+77,Lycodon striatus,Lycodon_striatus3.jpg,body ,brown yellow white ,brown,yellow,white,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,andrew
+77,Lycodon striatus,Lycodon_striatus4.jpg,body ,darkbrown yellow white ,darkbrown,yellow,white,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,andrew
+77,Lycodon striatus,Lycodon_striatus5.jpg,body ,black white yellow ,black,white,yellow,,blotched ,blotched,,,smooth,,488,,x,,,,,,,,,,,,andrew
+78,Lytorhynchus diadema,Lytorhynchus_diadema.jpg,body ,lightgray brown black ,lightgray,brown,black,,blotched ,blotched,,,,,440,,,,x,x,x,,,x,,x,x,,andrew
+78,Lytorhynchus diadema,Lytorhynchus_diadema2.jpg,body ,beige darkbrown white ,beige,darkbrown,white,,blotched ,blotched,,,,,440,,,,x,x,x,,,x,,x,x,,andrew
+78,Lytorhynchus diadema,Lytorhynchus_diadema3.jpg,body ,beige darkbrown white ,beige,darkbrown,white,,blotched ,blotched,,,smooth,,440,,,,x,x,x,,,x,,x,x,,andrew
+78,Lytorhynchus diadema,Lytorhynchus_diadema4.jpg,body ,beige lightbrown brown ,beige,lightbrown,brown,,blotched ,blotched,,,smooth,,440,,,,x,x,x,,,x,,x,x,,andrew
+78,Lytorhynchus diadema,Lytorhynchus_diadema5.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,smooth,,440,,,,x,x,x,,,x,,x,x,,andrew
+78,Lytorhynchus diadema,Lytorhynchus_diadema6.jpg,body ,white brown red ,white,brown,red,,blotched ,blotched,,,smooth,,440,,,,x,x,x,,,x,,x,x,,andrew
+81,Lytorhynchus kennedyi ridgewayi,Sindaco 2013 Lytorhynchus kennedyi ridgewayiB.jpg,body ,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,smooth,,380,,,x,,x,,,,,x,x,,,andrew
+81,Lytorhynchus kennedyi ridgewayi,Sindaco 2013 Lytorhynchus kennedyi ridgewayiD.jpg,body ,lightgray darkbrown white ,lightgray,darkbrown,white,,blotched ,blotched,,,,,380,,,x,,x,,,,,x,x,,,andrew
+81,Lytorhynchus kennedyi ridgewayi,Sindaco 2013 Lytorhynchus kennedyi ridgewayiE.jpg,body ,brown black ,brown,black,,,spotted ,spotted,,,smooth,,380,,,x,,x,,,,,x,x,,,andrew
+82,Lytorhynchus maynardi,Lytorhynchus_maynardi.jpg,body ,beige black ,beige,black,,,blotched ,blotched,,,,,265,,x,,,,,,,,,,,,andrew
+84,Macroprotodon cucullatus,Macroprotodon_cucullatus.jpg,body ,darkgray black lightgray ,darkgray,black,lightgray,,spotted ,spotted,,,smooth,,550,,,,x,,,,,,,,,,andrew
+85,Macrovipera leb turanica,Macrovipera_leb_turanica.jpg,body ,darkgray brown lightgray ,darkgray,brown,lightgray,,blotched ,blotched,,,,x,2140,,x,x,,x,,x,,,,x,,x,andrew
+85,Macrovipera lebetina,Macrovipera_lebetina.jpg,body ,lightgray darkgray ,lightgray,darkgray,,,blotched ,blotched,,,,x,2140,,x,x,,x,,x,,,,x,,x,andrew
+85,Macrovipera lebetina,Macrovipera_lebetina_obtusa.jpg,body ,lightgray brown black ,lightgray,brown,black,,blotched ,blotched,,,keeled,x,2140,,x,x,,x,,x,,,,x,,x,andrew
+85,Macrovipera lebetina,Macrovipera_lebetina_obtusa2.jpg,body ,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,2140,,x,x,,x,,x,,,,x,,x,andrew
+86,Macrovipera razii,Oraie 2018 Macrovipera raziiA.jpg,body ,black ,black,,,,uniform ,uniform,,,,x,1577,,x,,,,,,,,,,,,andrew
+86,Macrovipera razii,Oraie 2018 Macrovipera raziiB.jpg,body ,lightgray lightbrown ,lightgray,lightbrown,,,blotched ,blotched,,,smooth,x,1577,,x,,,,,,,,,,,,andrew
+87,Malpolon insignitus insignitus,Malpolon_insignitus_insignitus3.jpg,body ,beige brown ,beige,brown,,,uniform ,uniform,,,,,2080,,x,x,x,x,,x,,,,x,,,andrew
+88,Malpolon moilensis,Malpolon_moilensis3.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,blotched ,blotched,,,,,1890,,x,x,x,x,x,,,x,x,x,x,x,andrew
+89,Malpolon monspessulana,Malpolon_monspessulana.jpg,body ,brown ,brown,,,,uniform ,uniform,,,keeled,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus4.jpg,body ,lightgray lightbrown black ,lightgray,lightbrown,black,,uniform ,uniform,,,smooth,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus5.jpg,body ,brown ,brown,,,,uniform ,uniform,,,keeled,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus6.jpg,body ,darkbrown ,darkbrown,,,,uniform ,uniform,,,smooth,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus7.jpg,body ,brown beige ,brown,beige,,,uniform ,uniform,,,,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus_juv_fem.jpg,body ,brown black beige ,brown,black,beige,,spotted ,spotted,,,smooth,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus_m.jpg,body ,lightgray beige ,lightgray,beige,,,uniform ,uniform,,,,,2170,,,,,,,,,,,,,,andrew
+89,Malpolon monspessulana,Malpolon_monspessulanus_male.jpg,body ,brown ,brown,,,,uniform ,uniform,,,keeled,,2170,,,,,,,,,,,,,,andrew
+90,Micrelaps muelleri,Micrelaps_muelleri.jpg,body ,black yellow ,black,yellow,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,andrew
+90,Micrelaps muelleri,Micrelaps_muelleri2.jpg,body ,black beige ,black,beige,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,andrew
+90,Micrelaps muelleri,Micrelaps_muelleri3.jpg,body ,black beige ,black,beige,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,andrew
+90,Micrelaps muelleri,Micrelaps_muelleri4.jpg,body ,black white ,black,white,,,banded ,banded,,,smooth,x,600,,,,x,x,,x,,,,x,,,andrew
+90,Micrelaps muelleri,Micrelaps_tchernovi.jpg,body ,black beige ,black,beige,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,andrew
+95,Montipera raddei,Vipera_r_raddei.jpg,body ,darkgray lightbrown black ,darkgray,lightbrown,black,,blotched ,blotched,,,,,NA,,,,,,,,,,,,,,andrew
+92,Montivipera bornmuelleri,Montivipera_bornmuelleri2.jpg,body ,lightgray brown black ,lightgray,brown,black,,blotched ,blotched,,,,x,740,,,,x,,,x,,,,x,,,andrew
+92,Montivipera bornmuelleri,Montivipera_bornmuelleri3.jpg,body ,lightgray black brown ,lightgray,black,brown,,blotched ,blotched,,,,x,740,,,,x,,,x,,,,x,,,andrew
+93,Montivipera kuhrangica,Montivipera_kuhrangica.jpg,body ,lightgray beige black ,lightgray,beige,black,,blotched ,blotched,,,keeled,x,667,,x,,,,,,,,,,,,andrew
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiA.jpg,body ,lightgray black lightbrown ,lightgray,black,lightbrown,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,andrew
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiC.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,andrew
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiD.jpg,body ,brown darkbrown lightgray ,brown,darkbrown,lightgray,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,andrew
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiE.jpg,body ,brown ,brown,,,,uniform ,uniform,,,,x,790,,x,,,,,,,,,,,,andrew
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiF.jpg,body ,darkgray black lightgray ,darkgray,black,lightgray,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,andrew
+94,Montivipera latifi,Sindaco 2013 Montivipera latifiG.jpg,body ,darkgray lightbrown black ,darkgray,lightbrown,black,,blotched ,blotched,,,keeled,x,790,,x,,,,,,,,,,,,andrew
+96,Montivipera wagneri,Montivipera_wagneri.jpg,body ,lightgray beige darkbrown ,lightgray,beige,darkbrown,,blotched ,blotched,,,keeled,x,950,,x,,,,,,,,,,,,andrew
+96,Montivipera wagneri,Montivipera_wagneri2.jpg,body ,lightgray darkbrown lightbrown ,lightgray,darkbrown,lightbrown,,blotched ,blotched,,,,x,950,,x,,,,,,,,,,,,andrew
+97,Montvipera xanthina,Vipera_xanthina.jpg,body ,lightgray darkbrown white ,lightgray,darkbrown,white,,blotched ,blotched,,,keeled,,NA,,,,,,,,,,,,,,andrew
+97,Montvipera xanthina,Vipera_xanthina_2.jpg,body ,lightgray black white ,lightgray,black,white,,blotched ,blotched,,,keeled,,NA,,,,,,,,,,,,,,andrew
+101,Myriopholis macrorhyncha,Myriopholis_macrorhyncha.jpg,body ,purple ,purple,,,,uniform ,uniform,,,smooth,,269,,x,x,x,x,,,x,,,x,x,,andrew
+101,Myriopholis macrorhyncha,Myriopholis_macrorhyncha2.jpg,body ,purple ,purple,,,,uniform ,uniform,,,smooth,,269,,x,x,x,x,,,x,,,x,x,,andrew
+101,Myriopholis macrorhyncha,Myriopholis_macrorhyncha4.jpg,body ,purple ,purple,,,,uniform ,uniform,,,smooth,,269,,x,x,x,x,,,x,,,x,x,,andrew
+101,Myriopholis macrorhynchus,Leptotyphlops_macrorhynchus.jpg,body ,white ,white,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+101,Myriopholis macrorhynchus,Leptotyphlops_macrorhynchus2.jpg,body ,beige ,beige,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+101,Myriopholis macrorhynchus,Leptotyphlops_macrorhynchus4.jpg,body ,purple beige ,purple,beige,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+102,Myriopholis macrura,Myriopholis_macrura.jpg,body ,purple ,purple,,,,uniform ,uniform,,,smooth,,170,,,,,,,,,,,,,x,andrew
+102,Myriopholis macrurus,Leptotyphlops_macrurus.jpg,body ,purple lightgray ,purple,lightgray,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+103,Myriopholis nursii,Egan 2007 Myriopholis nursiiC.jpg,body ,brown black ,brown,black,,,uniform ,uniform,,,smooth,,250,,,,,,,,x,,,,,x,andrew
+103,Myriopholis nursii,Carranza 2021 Myriopholis nursii.jpg,body ,brown ,brown,,,,uniform ,uniform,,,smooth,,250,,,,,,,,x,,,,,x,andrew
+104,Myriopholis wilsoni,Leptotyphlops_wilsoni.jpg,body ,brown darkbrown ,brown,darkbrown,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+104,Myriopholis wilsoni,Myriopholis_wilsoni.jpg,body ,purple ,purple,,,,uniform ,uniform,,,smooth,,101,,,,,,,,,,,,,x,andrew
+106,Naja arabica,Carranza 2021 Naja arabicaD.jpg,body ,lightbrown darkbrown black ,lightbrown,darkbrown,black,,spotted ,spotted,,,,x,2400,,,,,,,,x,,x,,,x,andrew
+107,Naja haje,Naja_haje.jpg,body ,black yellow beige ,black,yellow,beige,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,andrew
+107,Naja haje,Naja_haje2.jpg,body ,brown beige ,brown,beige,,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,andrew
+107,Naja haje,Naja_haje3.jpg,body ,darkbrown black ,darkbrown,black,,,blotched ,blotched,,,smooth,x,2600,,,,,,,,,,,,,x,andrew
+107,Naja haje,Naja_haje4.jpg,body ,brown lightbrown ,brown,lightbrown,,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,andrew
+107,Naja haje,Naja_naja_haje2.jpg,body ,darkbrown beige ,darkbrown,beige,,,uniform ,uniform,,,smooth,x,2600,,,,,,,,,,,,,x,andrew
+109,Naja natrix,Natrix_natrix.jpg,body ,beige black lightgray ,beige,black,lightgray,,spotted ,spotted,,,,x,2000,,x,x,,,,,x,,,x,,,andrew
+109,Naja natrix,Natrix_natrix1.jpg,body ,darkgray lightgray beige ,darkgray,lightgray,beige,,uniform ,uniform,,yes,,x,2000,,x,x,,,,,x,,,x,,,andrew
+109,Naja natrix,Natrix_natrix2.jpg,body ,lightgray black brown ,lightgray,black,brown,,spotted ,spotted,,,keeled,x,2000,,x,x,,,,,x,,,x,,,andrew
+109,Naja natrix,Natrix_natrix5.jpg,body ,lightgray brown black ,lightgray,brown,black,,spotted ,spotted,,,keeled,x,2000,,x,x,,,,,x,,,x,,,andrew
+109,Naja natrix,Natrix_natrix6.jpg,body ,lightgray lightbrown black ,lightgray,lightbrown,black,,spotted ,spotted,,,keeled,x,2000,,x,x,,,,,x,,,x,,,andrew
+109,Naja natrix,Natrix_natrix7.jpg,body ,lightgray black ,lightgray,black,,,spotted ,spotted,,yes,keeled,x,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix cypriaca,Natrix_natrix_cypriaca.jpg,body ,lightgray black beige ,lightgray,black,beige,,blotched ,blotched,,,,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix cypriaca,Natrix_natrix_cypriaca2.jpg,body ,lightgray black lightbrown ,lightgray,black,lightbrown,,blotched ,blotched,,,,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix natrix,Natrix_natrix_natrix2.jpg,body ,darkgray black beige ,darkgray,black,beige,,spotted ,spotted,,yes,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix natrix,Natrix_natrix_natrix3.jpg,body ,darkgray black beige ,darkgray,black,beige,,spotted ,spotted,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix natrix,Natrix_natrix_natrix_juv.jpg,body ,black lightgray beige ,black,lightgray,beige,,uniform ,uniform,,yes,smooth,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix persa,Natrix_natrix_persa_f.jpg,body ,darkgray beige black ,darkgray,beige,black,,striped ,striped,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris.jpg,body ,darkgray black ,darkgray,black,,,spotted ,spotted,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris10.jpg,body ,darkbrown beige black ,darkbrown,beige,black,,striped spotted ,striped,spotted,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris11.jpg,body ,lightgray beige black ,lightgray,beige,black,,striped blotched ,striped,blotched,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris12.jpg,body ,darkgray beige black ,darkgray,beige,black,,striped blotched ,striped,blotched,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris3.jpg,body ,darkgray black ,darkgray,black,,,spotted ,spotted,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris5.jpg,body ,darkgray black ,darkgray,black,,,spotted ,spotted,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris7.jpg,body ,lightgray black ,lightgray,black,,,spotted ,spotted,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris8.jpg,body ,lightbrown black ,lightbrown,black,,,spotted ,spotted,,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+109,Natrix natrix vulgaris,Natrix_natrix_vulgaris9.jpg,body ,brown black beige ,brown,black,beige,,striped spotted ,striped,spotted,,keeled,,2000,,x,x,,,,,x,,,x,,,andrew
+110,Natrix tessellata,Natrix_tessellata.jpg,body ,darkgray black beige ,darkgray,black,beige,,blotched ,blotched,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata1.jpg,body ,brown lightbrown ,brown,lightbrown,,,blotched ,blotched,,,,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata12.jpg,body ,brown darkbrown ,brown,darkbrown,,,spotted ,spotted,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata13.jpg,body ,darkgray black beige ,darkgray,black,beige,,blotched ,blotched,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata14.jpg,body ,brown lightbrown beige ,brown,lightbrown,beige,,spotted ,spotted,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata15.jpg,body ,black beige brown ,black,beige,brown,,spotted ,spotted,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata2.jpg,body ,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata6.jpg,body ,darkbrown brown beige ,darkbrown,brown,beige,,spotted ,spotted,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata7.jpg,body ,black brown beige ,black,brown,beige,,blotched ,blotched,,,keeled,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+110,Natrix tessellata,Natrix_tessellata8.jpg,body ,lightbrown black beige ,lightbrown,black,beige,,spotted ,spotted,,,smooth,,1000,,x,x,x,x,,x,x,,,x,,x,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus10.jpg,body ,lightbrown beige darkbrown ,lightbrown,beige,darkbrown,,blotched ,blotched,,,smooth,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus11.jpg,body ,lightgray brown darkbrown ,lightgray,brown,darkbrown,,blotched ,blotched,,,smooth,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus2.jpg,body ,lightbrown beige brown ,lightbrown,beige,brown,,blotched ,blotched,,,,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus3.jpg,body ,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,blotched ,blotched,,,,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus5.jpg,body ,darkgray darkbrown lightgray ,darkgray,darkbrown,lightgray,,blotched ,blotched,,,smooth,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus6.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,blotched ,blotched,,,smooth,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus7.jpg,body ,beige darkbrown black ,beige,darkbrown,black,,blotched ,blotched,,,,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus8.jpg,body ,darkbrown lightgray black ,darkbrown,lightgray,black,,spotted ,spotted,,,smooth,,590,,x,,,,,,,,,,,,andrew
+111,Oligodon taeniolatus,Oligodon_taeniolatus9.jpg,body ,brown beige black ,brown,beige,black,,blotched striped ,blotched,striped,,smooth,,590,,x,,,,,,,,,,,,andrew
+112,Persiophis fahimii,Persiophis_fahimii.jpg,body,darkbrown blue ,darkbrown,blue,,,banded,banded,,,,,495,,x,,,,,,,,,,,,andrew
+114,Platyceps collaris,Platyceps_collaris2.jpg,body ,brown darkbrown beige ,brown,darkbrown,beige,,uniform ,uniform,,,smooth,,1000,,,,x,x,,x,,,,x,,,andrew
+114,Platyceps collaris,Platyceps_collaris3.jpg,body ,brown black beige ,brown,black,beige,,uniform ,uniform,,yes,smooth,,1000,,,,x,x,,x,,,,x,,,andrew
+114,Platyceps collaris,Platyceps_collaris_1.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,spotted ,spotted,,yes,smooth,,1000,,,,x,x,,x,,,,x,,,andrew
+114,Platyceps collaris,Platyceps_rubriceps.jpg,body ,lightgray brown black ,lightgray,brown,black,,spotted ,spotted,,yes,smooth,,NA,,,,,,,,,,,,,,andrew
+115,Platyceps elegantissimus,Platyceps_elegantissimus.jpg,body ,beige black ,beige,black,,,banded ,banded,,,,,700,,,,x,x,,,,,x,,,,andrew
+115,Platyceps elegantissimus,Platyceps_elegantissimus2.jpg,body ,beige black orange ,beige,black,orange,,banded ,banded,,,smooth,,700,,,,x,x,,,,,x,,,,andrew
+115,Platyceps elegantissimus,Platyceps_elegantissimus3.jpg,body ,beige black orange ,beige,black,orange,,banded ,banded,,,smooth,,700,,,,x,x,,,,,x,,,,andrew
+115,Platyceps elegantissimus,Platyceps_elegantissimus4.jpg,body ,beige black orange ,beige,black,orange,,banded ,banded,,,,,700,,,,x,x,,,,,x,,,,andrew
+117,Platyceps karelini,Platyceps_karelinii.jpg,body ,lightgray black white ,lightgray,black,white,,blotched ,blotched,,,,,1000,,x,,,,,,,,,,,,andrew
+118,Platyceps ladacensis,Schätti 2014 Platyceps ladacensisB.jpg,body ,lightgray white ,lightgray,white,,,blotched ,blotched,,,,,1072,,x,x,,,,,,,,,,,andrew
+118,Platyceps ladacensis,Schätti 2014 Platyceps ladacensisC.jpg,body ,lightgray white ,lightgray,white,,,blotched ,blotched,,,smooth,,1072,,x,x,,,,,,,,,,,andrew
+118,Platyceps ladacensis,Platyceps_ladacensis.jpg,body ,brown black beige ,brown,black,beige,,blotched ,blotched,,,smooth,,1072,,x,x,,,,,,,,,,,andrew
+119,Platyceps najadum,Coluber_najadum.jpg,body ,darkbrown black white ,darkbrown,black,white,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+119,Platyceps najadum dahlii,Platyceps_najadum_dahlii.jpg,body ,lightbrown darkgray ,lightbrown,darkgray,,,uniform ,uniform,,,smooth,,1530,,,x,,,,x,,,,x,,,andrew
+120,Platyceps plinii,Platyceps_plinii.jpg,body ,brown white ,brown,white,,,banded ,banded,,,smooth,,NA,,,,,,,,,,,,,,andrew
+121,Platyceps rhodorachis,Schätti 2014 Platyceps (dragged)C.jpg,body ,lightgray darkgray ,lightgray,darkgray,,,spotted ,spotted,,,smooth,,NA,,,,,,,,,,,,,,andrew
+121,Platyceps rhodorachis,Schätti 2014 Platyceps rhodorhachisA.jpg,body ,lightgray darkgray white ,lightgray,darkgray,white,,blotched ,blotched,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,andrew
+121,Platyceps rhodorachis,Schätti 2014 Platyceps rhodorhachisB.jpg,body ,lightgray darkgray white ,lightgray,darkgray,white,,blotched ,blotched,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,andrew
+121,Platyceps rhodorachis,Schätti 2014 Platyceps rhodorhachisC.jpg,body ,darkgray darkbrown beige ,darkgray,darkbrown,beige,,spotted ,spotted,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,andrew
+121,Platyceps rhodorachis,Schätti 2014 Platyceps rhodorhachisD.jpg,body ,lightgray brown ,lightgray,brown,,,striped ,striped,,,smooth,,1167,,x,x,,x,,,x,,x,x,x,x,andrew
+121,Platyceps rhodorachis,Platyceps_rhodorachis2.jpg,body ,beige black ,beige,black,,,blotched ,blotched,,,,,1167,,x,x,,x,,,x,,x,x,x,x,andrew
+121,Platyceps rhodorachis,Platyceps_rhodorachis_rhodorachis.jpg,body ,lightgray black white ,lightgray,black,white,,blotched ,blotched,,,,,1167,,x,x,,x,,,x,,x,x,x,x,andrew
+122,Platyceps rogersi,Coluber_rogersi.jpg,body ,white lightgray darkgray ,white,lightgray,darkgray,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+122,Platyceps rogersi,Platyceps_rogersi.jpg,body ,brown white ,brown,white,,,blotched ,blotched,,,smooth,,1080,,,x,x,x,,x,,,x,x,,,andrew
+123,Platyceps saharicus,Platyceps_saharicus.jpg,body ,beige darkbrown ,beige,darkbrown,,,banded ,banded,,,,,1410,,,,x,x,,,,,x,,,,andrew
+123,Platyceps saharicus,Platyceps_saharicus2.jpg,body ,darkbrown white ,darkbrown,white,,,banded ,banded,,,smooth,,1410,,,,x,x,,,,,x,,,,andrew
+123,Platyceps saharicus,Platyceps_saharicus3.jpg,body ,white black beige ,white,black,beige,,banded ,banded,,,smooth,,1410,,,,x,x,,,,,x,,,,andrew
+123,Platyceps saharicus,Platyceps_saharicus4.jpg,body ,lightgray black darkgray ,lightgray,black,darkgray,,blotched ,blotched,,,smooth,,1410,,,,x,x,,,,,x,,,,andrew
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisA.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,blotched ,blotched,,,,,400,,,,,,,,,,x,,,x,andrew
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisB.jpg,body ,lightgray darkgray ,lightgray,darkgray,,,spotted ,spotted,,,smooth,,400,,,,,,,,,,x,,,x,andrew
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisC.jpg,body ,brown darkbrown ,brown,darkbrown,,,blotched ,blotched,,,,,400,,,,,,,,,,x,,,x,andrew
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisE.jpg,body ,beige black ,beige,black,,,banded ,banded,,,,,400,,,,,,,,,,x,,,x,andrew
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisG.jpg,body ,lightgray black lightbrown ,lightgray,black,lightbrown,,banded striped ,banded,striped,,smooth,,400,,,,,,,,,,x,,,x,andrew
+126,Platyceps variabilis,Sindaco 2013 Platyceps variabilisH.jpg,body ,brown beige black ,brown,beige,black,,striped ,striped,, ,smooth, ,400, , , , , , , , , ,x, , ,x,andrew
+127,Platyceps ventromaculatus,Coluber_ventromaculatus.jpg,body ,lightgray white ,lightgray,white,,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+127,Platyceps ventromaculatus,Platyceps_ventromaculatus0.jpg,body ,lightbrown darkbrown ,lightbrown,darkbrown,,,blotched ,blotched,,,,,1260,x,,x,,x,x,,,x,x,,x,,andrew
+127,Platyceps ventromaculatus,Platyceps_ventromaculatus2.jpg,body ,lightgray darkbrown beige ,lightgray,darkbrown,beige,,blotched ,blotched,,,,,1260,x,,x,,x,x,,,x,x,,x,,andrew
+128,Psammophis aegyptius,Psammophis_aegyptius.jpg,body ,lightgray brown ,lightgray,brown,,,uniform ,uniform,,,smooth,,1500,,,,x,,,,,,,,,,andrew
+128,Psammophis aegyptius,Psammophis_aegyptius2.jpg,body ,lightgray brown ,lightgray,brown,,,uniform ,uniform,,,,,1500,,,,x,,,,,,,,,,andrew
+130,Psammophis schokari,Psammophis_schokari.jpg,body ,brown darkbrown beige ,brown,darkbrown,beige,,striped ,striped,,,smooth,,1500,,x,x,,x,x,,x,x,x,x,x,x,andrew
+130,Psammophis schokari,Psammophis_schokari5.jpg,body ,beige lightbrown ,beige,lightbrown,,,striped ,striped,,,,,1500,,x,x,,x,x,,x,x,x,x,x,x,andrew
+130,Psammophis schokari,Psammophis_schokari6.jpg,body ,brown beige darkbrown ,brown,beige,darkbrown,,striped ,striped,,,smooth,,1500,,x,x,,x,x,,x,x,x,x,x,x,andrew
+130,Psammophis schokari,Psammophis_schokari7.jpg,body ,lightbrown ,lightbrown,,,,uniform ,uniform,,,,,1500,,x,x,,x,x,,x,x,x,x,x,x,andrew
+131,Pseudocerastes fieldi,Pseudocerastes_fieldi.jpg,body ,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,keeled,x,890,,x,x,,x,,,,,x,x,,,andrew
+132,Pseudocerastes persicus,Pseudocerastes_persicus.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,keeled,x,1080,,x,x,,x,x,,x,,x,x,x,,andrew
+132,Pseudocerastes persicus,Pseudocerastes_persicus1.jpg,body ,beige brown ,beige,brown,,,blotched ,blotched,,,keeled,x,1080,,x,x,,x,x,,x,,x,x,x,,andrew
+132,Pseudocerastes persicus,Pseudocyclophis_persicus.jpg,body ,beige black ,beige,black,,,banded ,banded,,,smooth,x,1080,,x,x,,x,x,,x,,x,x,x,,andrew
+132,Pseudocerastes persicus,Pseudocyclophis_persicus2.jpg,body ,white black ,white,black,,,banded ,banded,,,,x,1080,,x,x,,x,x,,x,,x,x,x,,andrew
+133,Pseudocerastes urarachnoides,Pseudocerastes_urarachnoides.jpg,body ,beige lightbrown black ,beige,lightbrown,black,,blotched ,blotched,,,keeled,x,530,,x,x,,,,,,,,,,,andrew
+134,Ptyas mucosa,Ptyas_mucosa.jpg,body ,lightbrown brown ,lightbrown,brown,,,uniform ,uniform,,,smooth,,3700,,x,,,,,,,,,,,,andrew
+134,Ptyas mucosa,Ptyas_mucosa4.jpg,body ,black darkgray ,black,darkgray,,,banded ,banded,,,smooth,,3700,,x,,,,,,,,,,,,andrew
+134,Ptyas mucosa,Ptyas_mucosus3.jpg,body ,brown black ,brown,black,,,spotted ,spotted,,,smooth,,3700,,x,,,,,,,,,,,,andrew
+134,Ptyas mucosa,Ptyas_mucosus4.jpg,body ,darkbrown beige black ,darkbrown,beige,black,,spotted ,spotted,,,smooth,,3700,,x,,,,,,,,,,,,andrew
+135,Rhynchocalamus arabicus,Rhynchocalamus_arabicus.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,278,,,,,,,,x,,,,,x,andrew
+135,Rhynchocalamus arabicus,Rhynchocalamus_arabicus2.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,278,,,,,,,,x,,,,,x,andrew
+136,Rhynchocalamus dayanae,Rhynchocalamus_dayanae.jpg,body ,lightbrown black ,lightbrown,black,,,uniform ,uniform,,,smooth,,526,,,,x,,,,,,,,,,andrew
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus.jpg,body ,beige black ,beige,black,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,andrew
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus2.jpg,body ,lightbrown black ,lightbrown,black,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,andrew
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus4.jpg,body ,brown black ,brown,black,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,andrew
+138,Rhynchocalamus melanocephalus,Rhynchocalamus_melanocephalus5.jpg,body ,lightbrown black ,lightbrown,black,,,uniform ,uniform,,,smooth,,550,,x,x,x,x,,x,,,,x,,,andrew
+139,Rhynchocalamus satunini,Rhynchocalamus_satunini.jpg,body ,orange black ,orange,black,,,uniform ,uniform,,yes,smooth,,410,,x,x,,,,,,,,,,,andrew
+140,Spalerosophis diadema,Spalerosophis_d_atriceps.jpg,body ,orange black red ,orange,black,red,,blotched ,blotched,,,,,NA,,,,,,,,,,,,,,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema1.jpg,body ,beige black ,beige,black,,,blotched ,blotched,,,keeled,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema2.jpg,body ,orange darkbrown black ,orange,darkbrown,black,,spotted ,spotted,,,,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema3.jpg,body ,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema4.jpg,body ,beige black red ,beige,black,red,,blotched ,blotched,,,,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema5.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,blotched ,blotched,,,,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema6.jpg,body ,lightbrown darkbrown beige ,lightbrown,darkbrown,beige,,blotched ,blotched,,,,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema7.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,blotched ,blotched,,,keeled,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+140,Spalerosophis diadema,Spalerosophis_diadema_schirasianus.jpg,body ,lightbrown brown beige ,lightbrown,brown,beige,,blotched ,blotched,,,smooth,,2000,,x,x,x,x,x,x,x,x,x,x,x,x,andrew
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisB.jpg,body ,beige black lightgray ,beige,black,lightgray,,blotched ,blotched,,yes,keeled,,1430,,x,,,,,,,,,,,,andrew
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisD.jpg,body ,brown lightbrown black ,brown,lightbrown,black,,blotched ,blotched,,,smooth,,1430,,x,,,,,,,,,,,,andrew
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisE.jpg,body ,lightbrown brown black ,lightbrown,brown,black,,spotted ,spotted,,,,,1430,,x,,,,,,,,,,,,andrew
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisF.jpg,body ,brown black ,brown,black,,,blotched ,blotched,,,,,1430,,x,,,,,,,,,,,,andrew
+141,Spalerosophis microlepis,Sindaco 2013 Spalerosophis microlepisH.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,1430,,x,,,,,,,,,,,,andrew
+142,Telescopus dhara,Telescopus_dhara.jpg,body ,lightbrown brown ,lightbrown,brown,,,blotched ,blotched,,,smooth,w,1900,,,,x,x,,,x,,x,,x,x,andrew
+143,Telescopus fallax,Telescopus_fallax.jpg,body ,lightgray darkgray black ,lightgray,darkgray,black,,blotched ,blotched,,,,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+143,Telescopus fallax,Telescopus_fallax2.jpg,body ,lightgray black darkgray ,lightgray,black,darkgray,,blotched ,blotched,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+143,Telescopus fallax,Telescopus_fallax_fallax.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+143,Telescopus fallax,Telescopus_fallax_fallax_F.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+143,Telescopus fallax,Telescopus_fallax_fallax_J.jpg,body ,white black ,white,black,,,blotched ,blotched,,,,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+143,Telescopus fallax,Telescopus_fallax_syriacus.jpg,body ,lightbrown black ,lightbrown,black,,,blotched ,blotched,,,,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+143,Telescopus fallax,Telescopus_fallax_syriacus2.jpg,body ,lightgray darkbrown black ,lightgray,darkbrown,black,,blotched ,blotched,,,smooth,w,1200,,x,x,x,x,,x,,,,x,,,andrew
+144,Telescopus hoogstraali,Telescopus_hoogstraali.jpg,body ,beige black ,beige,black,,,banded ,banded,,,,w,1020,,,,x,x,,,,,,,,,andrew
+144,Telescopus hoogstraali,Telescopus_hoogstraali2.jpg,body ,lightgray black ,lightgray,black,,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,andrew
+144,Telescopus hoogstraali,Telescopus_hoogstraali4.jpg,body ,lightgray black ,lightgray,black,,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,andrew
+144,Telescopus hoogstraali,Telescopus_hoogstraali5.jpg,body ,lightbrown black ,lightbrown,black,,,blotched ,blotched,,,smooth,w,1020,,,,x,x,,,,,,,,,andrew
+144,Telescopus hoogstraali,Telescopus_hoogstraali6.jpg,body ,lightgray black ,lightgray,black,,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,andrew
+144,Telescopus hoogstraali,Telescopus_hoogstralii.jpg,body ,lightgray black ,lightgray,black,,,banded ,banded,,,smooth,w,1020,,,,x,x,,,,,,,,,andrew
+145,Telescopus nigriceps,Telescopus_nigriceps.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,,w,600,,x,x,,x,,,,,,x,,,andrew
+146,Telescopus obtusus,Telescopus_obtusus.jpg,body ,brown lightbrown ,brown,lightbrown,,,blotched ,blotched,,,smooth,w,1870,,,,,,,,,,,,,,andrew
+147,Telescopus rhinopoma,Telescopus_rhinopoma.jpg,body ,beige brown white ,beige,brown,white,,blotched ,blotched,,,smooth,w,1000,,x,,,,,,,,,,,,andrew
+147,Telescopus rhinopoma,Telescopus_rhinopoma2.jpg,body ,beige lightbrown black ,beige,lightbrown,black,,blotched ,blotched,,,smooth,w,1000,,x,,,,,,,,,,,,andrew
+148,Telescopus tesselatus,Kamali 2020 Telescopus tesselatusA.jpg,body ,lightgray brown white ,lightgray,brown,white,,blotched ,blotched,,,,w,1030,,x,x,,,,,,,,,,,andrew
+148,Telescopus tesselatus,Kamali 2020 Telescopus tesselatusB.jpg,body ,lightgray brown black ,lightgray,brown,black,,blotched ,blotched,,,smooth,w,1030,,x,x,,,,,,,,,,,andrew
+149,Vipera ammodytes,Vipera_ammodytes.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes.jpg,body ,white darkbrown ,white,darkbrown,,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes2.jpg,body ,black beige lightbrown ,black,beige,lightbrown,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes4.jpg,body ,darkbrown lightgray ,darkbrown,lightgray,,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes7.jpg,body ,lightgray brown darkbrown ,lightgray,brown,darkbrown,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes,Vipera_ammodytes_ammodytes8.jpg,body ,black lightgray ,black,lightgray,,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_F.jpg,body ,white black ,white,black,,,blotched ,blotched,,,smooth,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_female2.jpg,body ,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_M.jpg,body ,white black ,white,black,,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes gregorwallneri,Vipera_ammodytes_gregorwallneri_MF.jpg,body ,white black ,white,black,,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis.jpg,body ,darkbrown lightgray ,darkbrown,lightgray,,,blotched ,blotched,,,,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis4.jpg,body ,lightgray brown black ,lightgray,brown,black,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F.jpg,body ,lightbrown brown darkbrown ,lightbrown,brown,darkbrown,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F1.jpg,body ,beige brown darkbrown ,beige,brown,darkbrown,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F2.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_F3.jpg,body ,beige brown black ,beige,brown,black,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes meridionalis,Vipera_ammodytes_meridionalis_M.jpg,body ,white darkbrown black ,white,darkbrown,black,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes montadoni,Vipera_ammodytes_montadoni_F1.jpg,body ,white lightbrown darkbrown ,white,lightbrown,darkbrown,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes montadoni,Vipera_ammodytes_montadoni_F2.jpg,body ,white lightbrown darkbrown ,white,lightbrown,darkbrown,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+149,Vipera ammodytes montadoni,Vipera_ammodytes_montadoni_M.jpg,body ,white darkbrown black ,white,darkbrown,black,,blotched ,blotched,,,keeled,x,1100,,,,,,,,x,,,,,,andrew
+150,Vipera eriwanensis,Geniez 2018 Vipera eriwanensis.jpg,body ,darkgray lightgray ,darkgray,lightgray,,,blotched ,blotched,,,keeled,x,510,,x,,,,,,,,,,,,andrew
+151,Vipera transcaucasiana,Vipera_transcaucasiana_f.jpg,body ,darkgray black ,darkgray,black,,,blotched ,blotched,,,keeled,x,700,,x,,,,,,,,,,,,andrew
+151,Vipera transcaucasiana,Vipera_transcaucasiana_M.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,keeled,x,700,,x,,,,,,,,,,,,andrew
+151,Vipera transcaucasiana,Vipera_transcaucasiana_M2.jpg,body ,lightgray black ,lightgray,black,,,blotched ,blotched,,,keeled,x,700,,x,,,,,,,,,,,,andrew
+151,Vipera transcaucasiana,Vipera_transcaucasiana_mf.jpg,body ,lightbrown darkbrown lightgray ,lightbrown,darkbrown,lightgray,,blotched ,blotched,,,keeled,x,700,,x,,,,,,,,,,,,andrew
+151,Vipera transcaucasiana,Vipera_transcaucasiana_pair.jpg,body ,lightgray beige black ,lightgray,beige,black,,blotched ,blotched,,,keeled,x,700,,x,,,,,,,,,,,,andrew
+152,Vipera ursinii rakosiensis,Vipera_ursinii_rakosiensis.jpg,body ,darkgray darkbrown black ,darkgray,darkbrown,black,,blotched ,blotched,,,keeled,x,600,,,,,,,,x,,,,,,andrew
+152,Vipera ursinii rakosiensis,Vipera_ursinii_rakosiensis2.jpg,body ,black beige lightgray ,black,beige,lightgray,,blotched ,blotched,,,keeled,x,600,,,,,,,,x,,,,,,andrew
+152,Vipera ursinii tienshanica,Vipera_ursinii_tienshanica.jpg,body ,beige darkbrown black ,beige,darkbrown,black,,blotched ,blotched,,,keeled,x,600,,,,,,,,x,,,,,,andrew
+153,Walterinnesia aegyptia,Walterinnesia aegyptia.jpg,body ,darkgray ,darkgray,,,,uniform ,uniform,,,keeled,x,1400,,,x,x,x,,x,,,x,,,,andrew
+153,Walterinnesia aegyptia,Walterinnesia_aegyptia.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,x,1400,,,x,x,x,,x,,,x,,,,andrew
+153,Walterinnesia aegyptia,Walterinnesia_aegyptia2.jpg,body ,black ,black,,,,uniform ,uniform,,,,x,1400,,,x,x,x,,x,,,x,,,,andrew
+154,Walterinnesia morgani,Geniez 2018 Walterinnesia morgani.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,x,1170,,x,x,,,x,,,x,x,x,,,andrew
+156,Xerotyphlops socotranus,Typhlops_socotranus.jpg,body ,darkbrown brown ,darkbrown,brown,,,striped ,striped,,,smooth,,NA,,,,,,,,,,,,,,andrew
+158,Xerotyphlops vermicularis,Typhlops_vermicularis.jpg,body ,brown lightbrown ,brown,lightbrown,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+158,Xerotyphlops vermicularis,Xerotyphlops_vermicularis.jpg,body ,brown ,brown,,,,uniform ,uniform,,,,,400,,x,x,,,,,,,,,,,andrew
+160,Zamenis hohenackeri,Elaphe_hohenackeri.jpg,body ,lightgray darkbrown black ,lightgray,darkbrown,black,,blotched ,blotched,,,smooth,,NA,,,,,,,,,,,,,,andrew
+160,Zamenis hohenackeri,Zamenis_hohenackeri.jpg,body ,lightgray darkbrown ,lightgray,darkbrown,,,blotched ,blotched,,,smooth,,760,,x,x,x,,,x,,,,x,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus.jpg,body ,black brown white ,black,brown,white,,spotted ,spotted,,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus3.jpg,body ,black brown ,black,brown,,,uniform ,uniform,,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus4.jpg,body ,black lightbrown ,black,lightbrown,,,uniform ,uniform,,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus6.jpg,body ,brown white ,brown,white,,,uniform ,uniform,,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus7.jpg,body ventral ,brown black white ,brown,black,white,,uniform ,uniform,,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus8.jpg,body ,brown darkbrown white ,brown,darkbrown,white,,spotted striped ,spotted,striped,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus_subadult1.jpg,body ,brown lightgray black ,brown,lightgray,black,,blotched ,blotched,,,smooth,,2000,,x,,,,,,x,,,,,,andrew
+161,Zamenis longissimus,Zamenis_longissimus_subadult2.jpg,body ,brown lightgray ,brown,lightgray,,,blotched ,blotched,, , , ,2000, ,x, , , , , ,x, , , , , ,andrew
+162,Zamenis persica,Elaphe_persica.jpg,body ,black ,black,,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
+162,Zamenis persica,Elaphe_persica2.jpg,body ,brown darkbrown ,brown,darkbrown,,,uniform ,uniform,,,smooth,,NA,,,,,,,,,,,,,,andrew
